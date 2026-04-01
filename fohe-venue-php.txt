@@ -1,0 +1,26 @@
+FOHE Summit
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+<div class="menu-links" style="font-weight: 900;
+font-family: 'Poppins', sans-serif !important;">
+Home
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+<div class="venue-name" style="font-family: 'Poppins', sans-serif !important;
+font-weight: 900 !important;">FOHE, Prestige Falcon Towers,
+19, Brunton Rd, Craig Park Layout,
+Ashok Nagar, Bengaluru, Karnataka - 560025
+India
+📅 Apr 26, 2025
+🗓️ Apr 26, 2025  | ⏰ 09:00 AM
+GET DIRECTIONS
+Get Directions to the event venue
+Join us at the venue, mapped for your convenience.
+Copyright © 2025 VIDYASHILP UNIVERSITY

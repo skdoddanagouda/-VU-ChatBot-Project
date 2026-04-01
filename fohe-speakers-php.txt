@@ -1,0 +1,62 @@
+FOHE Summit
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+SPEAKERS
+PARTNERS
+VENUE
+GALLERY
+Register Now
+<div class="menu-links" style="font-weight: 900;
+font-family: 'Poppins', sans-serif !important;">
+Home
+AGENDA
+SPEAKERS
+PARTNERS
+VENUE
+GALLERY
+<section class="agenda-section" style="padding: 30px 20px;text-align: center;
+background-image: url(https://vidyashilpimages.com/zoho_back.png);">
+Our Speakers & Celebrity Guests
+Our Speakers
+Exciting speakers to follow at the event
+View Profile
+Pranav Pai
+Founding Partner - 3one4 Capital
+Investor - Licious, Darwinbox, Jupiter
+View Profile
+Dr. Sugata Marjit
+RBI Professor of Industrial Economics
+Visiting Professor at Cornell University and Penn State University
+Pranav Pai
+Founding Partner - 3one4 Capital
+About the Speaker
+Pranav Pai is the Founding Partner and Chief Investment Officer at 3one4 Capital...
+Dr. Sugata Marjit
+RBI Professor of Industrial Economics
+About the Speaker
+Dr. Sugata Marjit is a renowned economist and visiting professor...
+Panel Discussion
+Our Insight ful Experts
+View Profile
+Dr. Mukta Kulkarni
+Chairperson Office of International Affairs, IIMB
+View Profile
+Mr. Rahul Subramaniam
+Co-founder and Managing Director Athena Education
+View Profile
+Dr. Venkatesh Panchapagesan
+Chairperson Real Estate Research Initiative
+View Profile
+Mr. Maninder Chhabra
+Director Century Real Estate
+Entertainment Celebrity Guests
+LOL Hour with Comedy Stars
+View Profile
+Sorabh Pant
+Standup Comedian
+View Profile
+Raunaq Rajani
+Standup Comedian
+Copyright © 2025 VIDYASHILP UNIVERSITY

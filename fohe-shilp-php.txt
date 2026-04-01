@@ -1,0 +1,29 @@
+FOHE Summit
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+<div class="menu-links" style="font-weight: 900;
+font-family: 'Poppins', sans-serif !important;">
+Home
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+<div class="container event-section" style="
+border: 15px solid white;
+">
+Shilp Showcase
+Interdisciplinary and experiential learning takes center stage at the SHILP SHOWCASE.
+From design concepts rooted in real-world challenges to tech-enabled innovations and
+research-driven insights, this exhibition offers a firsthand look at the kind of bold,
+future-facing work Vidyashilp students are doing. Parents and guests will have the opportunity
+to explore student-led projects that reflect how classroom learning translates into practical,
+meaningful outcomes.
+The showcase also features captivating dance performances by our students.
+These performances highlight the creative energy and diverse talents that thrive on
+campus celebrating not just academic excellence, but a well-rounded, holistic student life.
+Copyright © 2025 VIDYASHILP UNIVERSITY

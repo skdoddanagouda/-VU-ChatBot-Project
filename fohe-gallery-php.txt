@@ -1,0 +1,23 @@
+FOHE Summit
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+SPEAKERS
+PARTNERS
+VENUE
+GALLERY
+<div class="menu-links" style="font-weight: 900;
+font-family: 'Poppins', sans-serif !important;">
+Home
+AGENDA
+SPEAKERS
+PARTNERS
+VENUE
+GALLERY
+<section class="agenda-section" style="padding: 30px 20px;text-align: center;
+background-image: url(https://vidyashilpimages.com/zoho_back.png);">
+Gallery
+FOHE 2024
+FOHE 2025
+Copyright © 2025 VIDYASHILP UNIVERSITY
