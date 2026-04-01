@@ -1,0 +1,1181 @@
+Specialization Area | PHD College In Bangalore | Vidyashilp University
+Overview
+Specialization Areas
+Overview
+Specialization Areas
+APPLY NOW
+RESEARCH
+SPECIALIZATIONS
+At Vidyashilp University, there are three schools that have been established with an interdisciplinary framework. Explore the areas of research under each of these schools, supervised by our faculty community of Leaders and Luminaries.
+SCHOOL OF COMPUTATIONAL AND DATA SCIENCES
+SCHOOL OF LEGAL STUDIES AND GOVERNANCE
+SCHOOL OF LIBERAL ARTS AND DESIGN STUDIES
+SCHOOL OF BUSINESS STUDIES
+SCHOOL OF COMPUTATIONAL AND DATA SCIENCES
+Explainable and Interpretable AI
+KNOW MORE
+Explainable and Interpretable AI
+Success obtained by deep learning-based architectures in recent years have prompted many neural network models being proposed to solve problems in various domains. Although these models promise very competitive results; they are often perceived as black-box techniques due to their multilayer and nonlinear structure. They are often categorized as non-transparent and their predictions not traceable and explainable by humans.  Though these architectures can effectively model very complex problems, they cannot be interpreted. Hence the predictions from these models cannot be explained. Because of this, explain ability and interpretability of deep learning models have received special attention in recent times. There is a lot of on-going research for making models more explainable and interpretable.  These approaches primarily seek to understand the internal representations that are formed in the black box model.
+RESEARCH SUPERVISOR
+Prof. Smitha Rao
+Prof. Smitha Rao is a distinguished researcher and an award-winning academician with 25 years of experience. She holds a Ph.D. in Intelligent Agents (Computer Science) and is adept in curriculum development and classroom instruction. During her academic journey, Prof. Rao has held leadership positions as Director, Program Chair, and HOD at well-known institutes. She has also been invited as an international speaker at MIT, Boston, and a Guest speaker and Session chair at several International Conferences.
+Prof. Rao is the recipient of the EVUEME Award in WAIN Innovation Challenge, and a firm believer in interdisciplinary research. She has published over 23 research papers in reputed journals like Springer and IEEE.
+Prerequisites
+Applicant should have an interest in the areas of Data Science, Data Analytics and Statistics
+Programming in Python/R/MatLab
+Good oral and written skills in English
+Good at working with an interdisciplinary team
+APPLY NOW
+Auto Neural Network Architecture
+KNOW MORE
+Auto Neural Network Architecture
+Neural Network architectures try to model the underlying relationships in data in a way that mimics the working of the human brain. Neural networks basically comprise of a connection of nodes in various layers. The basic learnable parameters of the Neural Network are weights and biases. Developing neural network models often requires significant architectural engineering. Techniques for automatically discovering the best-performing Neural Network architecture for a given dataset are commonly known as AutoML / AutoDL. It is basically building an optimal Neural Network Structure for a given dataset with minimal human intervention. Various evolutionary and reinforcement algorithms are currently being explored to effectively solve the problem.
+RESEARCH SUPERVISOR
+Prof. Smitha Rao
+Prof. Smitha Rao is a distinguished researcher and an award-winning academician with 25 years of experience. She holds a Ph.D. in Intelligent Agents (Computer Science) and is adept in curriculum development and classroom instruction. During her academic journey, Prof. Rao has held leadership positions as Director, Program Chair, and HOD at well-known institutes. She has also been invited as an international speaker at MIT, Boston, and a Guest speaker and Session chair at several International Conferences.
+Prof. Rao is the recipient of the EVUEME Award in WAIN Innovation Challenge, and a firm believer in interdisciplinary research. She has published over 23 research papers in reputed journals like Springer and IEEE.
+Prerequisites
+Applicant should have an interest in the areas of Data Science, Data Analytics and Statistics
+Programming in Python/R/MatLab
+Good oral and written skills in English
+Good at working with an interdisciplinary team
+APPLY NOW
+Context Extraction for Hierarchical Organization of Videos in the Educational Domain
+KNOW MORE
+Context Extraction for Hierarchical Organization of Videos in the Educational Domain
+Studies show that videos are especially important, and are used mostly for review purposes. Videos recorded during in-class teaching and made accessible online are a versatile resource on par with a textbook and the classroom itself. Accessing the content of interest in a long lecture video is not easy because of the lack of an index section to enable quick search. Proposing a framework for automatic topic segmentation can significantly improve the accessibility. Automatic organization and indexing of topics and topic related content with an efficient search feature can help students easily access and review the topic of their choice quickly and efficiently.
+RESEARCH SUPERVISOR
+Dr. D. C. Kiran
+Dr. D. C. Kiran is an illustrious academician with 2 decades of experience. He holds a Ph.D. in Computer Science and Engineering from BITS-Pilani and has held numerous leadership positions at the institute for a decade. His academic journey also highlights his contribution to Presidency University, where he was a part of the founding faculty. He was instrumental in setting up various initiatives and labs, and served as a member of the RAC and DAC. He has also taught and guided communities of working professionals at Wipro Technologies, L&T, CISCO, and Hindustan Zinc Ltd.
+Dr. D. C. Kiran has published numerous research papers in national and international journals of repute, and is a Mentor of Change at NITI Aayog.
+APPLY NOW
+Semantic Textual Similarity
+KNOW MORE
+Semantic Textual Similarity
+In the field of Computer Science and Computational Linguistics, measuring semantic textual similarities between words/terms, sentences, paragraphs and documents plays an important role. It also has many applications across several fields such as Biomedical Informatics and Geoinformation. There are several fields where semantic textual similarity can play a direct or indirect role in sentiment analysis, natural language understanding and machine translation. Also, semantic textual similarity can be applied in many areas like short answer grading, duplicate document detection, text clustering, text categorization, topic detection, question and answer sessions, machine translation, text summarization, etc. It helps to improve learning outcomes, by using automated text analysis to judge students’ understanding of high-level concepts from their open-ended written responses typically for homework assignments, practice tests, etc. The AI engine can provide immediate feedback to the student on the basic features of writing.
+RESEARCH SUPERVISOR
+Dr. N. Mehala
+Associate Professor, School of Computational and Data Sciences
+Former Faculty with CSIS, BITS Pilani and Nucleus member of the BITS WILPD
+Former Associate Professor, PES University
+Ph.D. in Computer Science, BITS-Pilani
+M.Tech/M.S (CSE or related domain)
+Desirable:
+Programming Skill, Conceptual Thinking
+APPLY NOW
+Visible Light Drive Efficient Catalytic Dye Degradation
+KNOW MORE
+Visible Light Drive Efficient Catalytic Dye Degradation
+Industrial effluents, laced with textile/specialty dyes, harm marine life when let into water bodies and eventually permeate to land life causing a disturbance in the ecosystem. Modern techniques to address this are advanced oxidation processes and photocatalysis, of which the latter is most sought after because the degradation process produces no secondary pollution. Metal oxide semiconductors (MOS) with a wide band gap (such as TiO2) efficiently degrade dyes under UV irradiation, but are inefficient under solar irradiation (UV constitutes only ~ 4% of solar radiation reaching Earth). Their band gap needs to decrease for visible light photocatalysis. Further, these MOS nanophotocatalysts are not retrievable for reuse.
+Industrial employability of nanophotocatalysts requires easy and bulk producibility, non-toxicity, cost-effectiveness, high dye degradation efficiency and most importantly, retrievability of nanophotocatalysts for repeated use. Our research group focusses on the synthesis and application of band gap tailored stable, non-toxic metal oxide/composite nanophotocatalysts for heterojunction photocatalytic oxidation of potential carcinogenic dyes with complete retrievability.
+RESEARCH SUPERVISOR
+Dr. Anupama A. V.
+Project Staff (Psychiatry Dept.), NIMHANS, Bengaluru
+Adjunct Faculty, IIT, Gandhinagar
+Faculty, KLE’s Lingaraj College, Belagavi
+Faculty, Chulalungkorn University, Bangkok
+Prerequisites
+M.Sc in Materials Science/Chemistry/Physics/Nanoscience or Nanotechnology/any related field
+M.Tech/B.Tech in Materials Engineering/Metallurgy/Chemical Engineering/Mechanical Engineering/any related field with sound knowledge of chemistry
+Desirables
+Experience in synthesis of nanomaterials
+Use of scientific software such as Origin, MatLab etc.
+Prior publication
+APPLY NOW
+Hydrogen Evolution by Water Splitting
+KNOW MORE
+Hydrogen Evolution by Water Splitting
+The ever-growing demand for energy has resulted in the fast depletion of traditional energy sources (petroleum, coal etc.). Moreover, the combustible products of these conventional sources are major contributors to pollution, global warming and the resultant climate change. Renewable, clean and green energy sources such as solar, wind and hydro energy have been the best alternatives; the most promising being hydrogen as a fuel since the product of combustion is pure water.
+Splitting water to produce hydrogen can be achieved by electrochemical processes. However, this requires energy. The advanced and most researched water-splitting process is nanocatalysis, which only requires a choice of suitable nanoparticles. Our research team focusses on the development of nanostructures/nanocomposites based on metal oxides, compounds and carbonaceous materials with high physical and chemical stabilities, large scale producibility and retrievability while improving the quantum efficiency of hydrogen evolution.
+RESEARCH SUPERVISOR
+Dr. Anupama A. V.
+Project Staff (Psychiatry Dept.), NIMHANS, Bengaluru
+Adjunct Faculty, IIT, Gandhinagar
+Faculty, KLE’s Lingaraj College, Belagavi
+Faculty, Chulalungkorn University, Bangkok
+Prerequisites
+M.Sc in Materials Science/Chemistry/Physics/Nanoscience or Nanotechnology/any related field
+M.Tech/B.Tech in Materials Engineering/Metallurgy/Chemical Engineering/Mechanical Engineering/any related field with sound knowledge of chemistry
+Desirables
+Experience in synthesis of nanomaterials
+Use of scientific software such as Origin, MatLab etc.
+Prior publication
+APPLY NOW
+Toxic / Irritant Gas Sensors
+KNOW MORE
+Toxic / Irritant Gas Sensors
+Various manufacturing / processing industries may generate gases as deliberate products or as undesirable byproducts. Either way, a few of these gases are toxic or irritants, which are life-threatening if not detected immediately upon accidental leakage. A large-scale gas-leakage can result in massive life-loss, or at the least cause long-lasting health issues in survivors. Timely sensing and intervention in case of gas leakage can prevent disaster, which necessitates employment of gas detectors (sensors).  Gas sensors normally made of metal oxides, have inherent drawbacks of low sensitivity and selectivity, need high operating temperature, exhibit cross-sensitivity, and are generally costly. In our research group we work on developing metal oxide/nanohybrid structures based versatile gas sensors to address stated drawbacks, while extending the sensor's life span and enhancing efficiency of gas sensing.
+Energy band gap tuning, morphological tailoring, heterostructure fabrication with enhanced speed of gas detection, form the core of this research work.
+RESEARCH SUPERVISOR
+Dr. Anupama A. V.
+Project Staff (Psychiatry Dept.), NIMHANS, Bengaluru
+Adjunct Faculty, IIT, Gandhinagar
+Faculty, KLE’s Lingaraj College, Belagavi
+Faculty, Chulalungkorn University, Bangkok
+Prerequisites
+M.Sc in Materials Science/Chemistry/Physics/Nanoscience or Nanotechnology/any related field
+M.Tech/B.Tech in Materials Engineering/Metallurgy/Chemical Engineering/Mechanical Engineering/any related field with sound knowledge of chemistry
+Desirables
+Experience in synthesis of nanomaterials
+Use of scientific software such as Origin, MatLab etc.
+Prior publication
+APPLY NOW
+Fractional Calculus
+KNOW MORE
+Fractional Calculus
+Leibniz was the first who raised the question “Can the meaning of derivatives with integer order be generalized to derivatives with non-integer orders?” in a mail written to L’Hôpital in 1695. L’Hôpital responded by asking  “What if the order will be 1/2?” For which, Leibniz asserted “one day, useful consequences will be drawn”. The first major study of fractional calculus was started by Liouville in 1832. In 1884, Laurent published a paper on the fundamentals of fractional calculus. Fractional calculus generalizes the theory of classical differential and integral calculus to non-integer order. It is also back dated as differential calculus, but there are several reasons that prevented it from becoming as popular as conventional calculus. This is because of its intrinsic complication, the evident self-adequacy of classical calculus, its lack of reasonable geometric or physical interpretation for fractional derivatives. And, hence its applications were delayed in various branches of engineering and science.
+RESEARCH SUPERVISOR
+Dr. Bijil Prakash
+With a Ph.D. in Applied Mathematics and a background in Modelling and Simulation, Dr. Bijil is an expert in this domain and has supervised over 150 student projects.
+Dr. Bijil is a former faculty at BITS-Pilani and a sports enthusiast . His interests lie in unique areas including Numerical Solutions of fractional models with wavelets, Home Automation System for Paralyzed People, Image Encryption and Steganography. He has around 11 publications of which 6 are Scopus and 2 are SCI indexed. Knows around 6 languages. An accomplished educational professional with extensive experience and finely honed abilities in teaching and research domain.
+Prerequisites
+M.Sc in Mathematics/M.Phil in Mathematics.
+Strong Basic Mathematics concepts, Programming Knowledge.
+Candidates who have cleared NET/SLET/GATE shall be given preference.
+APPLY NOW
+Wavelets
+KNOW MORE
+Wavelets
+Wavelets form a special class of functions which possess the oscillatory behaviour for a small duration and then die out. In comparison to the Fourier Series, we consider dilations and translations of a special type of function in wavelets. Approximation using superposition of functions has existed since the early 1800’s, when Joseph Fourier discovered that he could superpose sines and cosines to represent other functions. However, in wavelet analysis, the scale that we use to look at data plays a special role expansion (using coefficients in a linear combination of the wavelet functions). Data operations can be performed using just the corresponding wavelet coefficients. And if you further choose the best wavelets adapted to your data, or truncate the coefficients below a threshold, your data is sparsely represented.
+This sparse coding makes wavelets an excellent tool in the field of data compression. Other applied fields that are making use of wavelets include astronomy, acoustics, nuclear engineering, sub-band coding, signal and image processing, neurophysiology, music, magnetic resonance imaging, speech discrimination, optics, fractals, turbulence, earthquake-prediction, radar, human vision, and pure mathematical applications such as solving differential equations.
+RESEARCH SUPERVISOR
+Dr. Bijil Prakash
+With a Ph.D. in Applied Mathematics and a background in Modelling and Simulation, Dr. Bijil is an expert in this domain and has supervised over 150 student projects.
+Dr. Bijil is a former faculty at BITS-Pilani and a sports enthusiast . His interests lie in unique areas including Numerical Solutions of fractional models with wavelets, Home Automation System for Paralyzed People, Image Encryption and Steganography. He has around 11 publications of which 6 are Scopus and 2 are SCI indexed. Knows around 6 languages. An accomplished educational professional with extensive experience and finely honed abilities in teaching and research domain.
+Prerequisites
+M.Sc in Mathematics/M.Phil in Mathematics.
+Strong Basic Mathematics concepts, Programming Knowledge.
+Candidates who have cleared NET/SLET/GATE shall be given preference.
+APPLY NOW
+Research Portfolio: Chaos and Synchronization of Nonlinear Dynamical Systems
+KNOW MORE
+Research Portfolio: Chaos and Synchronization of Nonlinear Dynamical Systems
+Essentials
+Nonlinear dynamical systems evolve from several fields, including diseases, energy, finance, materials, computing (classical and quantum), etc. Globally, research in nonlinear dynamics can be characterized into six major divisions:
+Modelling a physical process.
+Wellposedness Theory (Do solution/solutions exist for a model which changes with time?)
+Qualitative exploration of these models.
+Looking for exact, well-behaved numerical solutions
+Are these solutions stable?
+Control Theory
+RESEARCH SUPERVISOR
+Dr. Priyambada Tripathi
+Dr Priyambada is an expert in the field of qualitative exploration of dynamical systems,
+which consists of the chaotic behavior of the systems, the synchro- nization of two or more systems, control parameters,
+and the stability of the system.
+Proposed Area of Research:
+Following are the proposed area of research:
+Non-linear dynamical systems arise in finance, biology, and materials, and their qualitative and asymptotic behavior is derived from a pedestal of geometrical points together with numerical simulations.
+To look out for control theory and to study the chaotic behavior, conver- gence, and stability of non-linear dynamical systems. Moreover, if we talk about differentiable dynamical systems, many other concepts arise in this context, for example,  limiting behavior of trajectories and repetitiveness of motion. These can be discussed in the general context of topological dynamical systems as well. So, we can connect dynamics to topology in many concepts with this continuation of study.
+To dig out in the field of stochastic fractional financial model.
+To study the stability of of celestial bodies
+APPLY NOW
+Artificial Intelligence in Healthcare
+KNOW MORE
+Artificial Intelligence in Healthcare
+This research area focuses on the development of AI-based diagnostic systems for early detection and prognosis of critical diseases, particularly using medical imaging modalities. Emphasis is placed on model interpretability, ethical AI in healthcare, and integration with clinical workflows.
+RESEARCH SUPERVISOR
+Dr. Shital Bhatt
+Dr. Shital Bhatt is a educator and researcher with a rich background in
+engineering education. With 16 years of teaching experience at an
+esteemed engineering college, she has played a pivotal role in shaping
+the academic journey of countless students. Dr. Bhatt's teaching portfolio
+encompasses a diverse range of subjects, showcasing her versatility
+and expertise across different domains of engineering.
+Dr. Bhatt's academic journey culminated in the attainment of a Ph.D.
+focusing on lung cancer diagnosis utilizing Artificial Intelligence (AI).
+Her groundbreaking research in this area reflects her commitment to leveraging
+cutting-edge technology for healthcare advancements, demonstrating
+a fusion of engineering and medical sciences.
+As an educator, Dr. Bhatt's primary areas of expertise lie in
+Communication Systems, Artificial Intelligence (AI), and the
+Internet of Things (IoT). Her profound knowledge and hands-on experience
+in these domains have not only enriched her teaching but also enabled her
+to mentor students keen on exploring these futuristic fields.
+In addition to her teaching and research contributions,
+Dr. Bhatt has made significant strides in academic publications.
+She has authored 16 papers published in reputable journals and conferences,
+ighlighting her thought leadership and impactful insights in the engineering community.
+Furthermore, her innovative ideas have led to a patented invention,
+further solidifying her reputation as a trailblazer in her field. Currently,
+Dr. Bhatt is spearheading a research project focused on lung cancer diagnosis,
+demonstrating her ongoing commitment to pushing the boundaries of scientific
+knowledge and making tangible contributions to healthcare solutions.
+Prerequisites
+Applicants should have a strong foundation in machine learning, data science, and programming
+(preferably in Python), along with familiarity in working with datasets and relevant tools such as TensorFlow,
+PyTorch, or MATLAB. Prior experience in healthcare/agriculture domain
+data is desirable but not mandatory.
+APPLY NOW
+AI-Driven Precision Agriculture
+KNOW MORE
+AI-Driven Precision Agriculture
+This area explores the application of AI/ML to improve agricultural productivity, sustainability, and decision-making. Emphasis is placed on real-time data collection from drones, satellites, and IoT devices, and integration with climate and soil datasets
+RESEARCH SUPERVISOR
+Dr. Shital Bhatt
+Dr. Shital Bhatt is a educator and researcher with a rich background in
+engineering education. With 16 years of teaching experience at an
+esteemed engineering college, she has played a pivotal role in shaping
+the academic journey of countless students. Dr. Bhatt's teaching portfolio
+encompasses a diverse range of subjects, showcasing her versatility
+and expertise across different domains of engineering.
+Dr. Bhatt's academic journey culminated in the attainment of a Ph.D.
+focusing on lung cancer diagnosis utilizing Artificial Intelligence (AI).
+Her groundbreaking research in this area reflects her commitment to leveraging
+cutting-edge technology for healthcare advancements, demonstrating
+a fusion of engineering and medical sciences.
+As an educator, Dr. Bhatt's primary areas of expertise lie in
+Communication Systems, Artificial Intelligence (AI), and the
+Internet of Things (IoT). Her profound knowledge and hands-on experience
+in these domains have not only enriched her teaching but also enabled her
+to mentor students keen on exploring these futuristic fields.
+In addition to her teaching and research contributions,
+Dr. Bhatt has made significant strides in academic publications.
+She has authored 16 papers published in reputable journals and conferences,
+ighlighting her thought leadership and impactful insights in the engineering community.
+Furthermore, her innovative ideas have led to a patented invention,
+further solidifying her reputation as a trailblazer in her field. Currently,
+Dr. Bhatt is spearheading a research project focused on lung cancer diagnosis,
+demonstrating her ongoing commitment to pushing the boundaries of scientific
+knowledge and making tangible contributions to healthcare solutions.
+Prerequisites
+Demonstrated interest in consumer behavior, technology adoption, sustainable marketing, or digital transformation.
+Basic proficiency in qualitative and/or quantitative research methods.
+Working knowledge of any statistical tool like SPSS, R, Python, AMOS.
+APPLY NOW
+AI-Driven Robotic Assistants for Healthcare Support
+KNOW MORE
+AI-Driven Robotic Assistants for Healthcare Support
+This multidisciplinary research focuses on the design, development, and deployment of intelligent robotic assistants for patient support. It integrates Artificial Intelligence, Robotics, Psychology, Electronics, Mechanical Design, and Computer Science to address the physical, emotional, and cognitive needs of aging populations. The study aims to build empathetic, context-aware robots capable of interaction, mobility assistance, health monitoring, and companionship. It emphasizes human-robot interaction, ethical considerations, and inclusive design, contributing to the future of healthcare delivery and assisted living solutions
+RESEARCH SUPERVISOR
+Dr. N. Mehala
+Associate Professor, School of Computational and Data Sciences
+Former Faculty with CSIS, BITS Pilani and Nucleus member of the BITS WILPD
+Former Associate Professor, PES University
+Ph.D. in Computer Science, BITS-Pilani
+Eligibility Qualification
+Master’s degree in Computer Science, Robotics & Automation Basic Skills
+APPLY NOW
+Teaching Computational Thinking in K–12 Schools
+KNOW MORE
+Teaching Computational Thinking in K–12 Schools
+This research explores the integration of Computational Thinking (CT) in Indian K–12 schools, addressing students, teachers, and the current education system. Aligned with NEP 2020, it investigates how CT can be taught as a foundational, cross-disciplinary skill without requiring prior programming knowledge. The study focuses on developing inclusive teaching methods, assessing teacher readiness, student engagement, and curriculum gaps. It aims to provide actionable insights for policy implementation, teacher training, and curriculum design to make CT accessible and effective across diverse Indian school contexts.
+RESEARCH SUPERVISOR
+Dr. D. C. Kiran
+Dr. D. C. Kiran is an illustrious academician with 2 decades of experience. He holds a Ph.D. in Computer Science and Engineering from BITS-Pilani and has held numerous leadership positions at the institute for a decade. His academic journey also highlights his contribution to Presidency University, where he was a part of the founding faculty. He was instrumental in setting up various initiatives and labs, and served as a member of the RAC and DAC. He has also taught and guided communities of working professionals at Wipro Technologies, L&T, CISCO, and Hindustan Zinc Ltd.
+Dr. D. C. Kiran has published numerous research papers in national and international
+journals of repute, and is a Mentor of Change at NITI Aayog.
+Prerequisite/Eligibility Qualification
+Master’s degree in any domain. No prior computer programming background required.
+APPLY NOW
+Intelligent Legal Systems
+KNOW MORE
+Intelligent Legal Systems: Exploring AI, NLP, and Multimodal Approaches for Legal Reasoning and Assistance
+This interdisciplinary research aims to develop AI-driven legal assistants capable of reading, interpreting, and summarizing legal documents and past case law to support understanding of ongoing cases. Combining Natural Language Processing (NLP), multimodal learning, legal studies, and computer science, the study focuses on creating intelligent systems that assist legal professionals and students. It emphasizes automation in legal research, contextual understanding, and user-friendly interfaces, addressing the growing demand for efficiency and accessibility in the legal domain.
+RESEARCH SUPERVISOR
+Dr. D. C. Kiran
+Dr. D. C. Kiran is an illustrious academician with 2 decades of experience. He holds a Ph.D. in Computer Science and Engineering from BITS-Pilani and has held numerous leadership positions at the institute for a decade. His academic journey also highlights his contribution to Presidency University, where he was a part of the founding faculty. He was instrumental in setting up various initiatives and labs, and served as a member of the RAC and DAC. He has also taught and guided communities of working professionals at Wipro Technologies, L&T, CISCO, and Hindustan Zinc Ltd.
+Dr. D. C. Kiran has published numerous research papers in national and international
+journals of repute, and is a Mentor of Change at NITI Aayog.
+Prerequisite/Eligibility Qualification
+Master’s degree in Computer Science, Law, Data Science, or related fields with an interest in AI and NLP.
+APPLY NOW
+Theoretical & Experimental Nonlinear Dynamics
+KNOW MORE
+Theoretical & Experimental Nonlinear Dynamics
+Essentials
+Nonlinear dynamical systems arise in diverse fields such as
+mathematical biology, finance, and complex systems.
+Their qualitative and quantitative analysis, along with the study of
+long-time asymptotic behaviour, offers deep insight into underlying
+physical phenomena. In this project, we aim to investigate these aspects
+through time-series analysis, as well as theoretical and experimental
+approaches, within the frameworks of ordinary differential equations (ODEs),
+partial differential equations (PDEs), and fractional and stochastic models.
+RESEARCH SUPERVISOR
+Dr. Priyambada Tripathi
+Dr Priyambada is an expert in the field of qualitative exploration of dynamical systems,
+which consists of the chaotic behavior of the systems, the synchro- nization of two or more systems, control parameters,
+and the stability of the system.
+Proposed Area of Research:
+Following are the proposed area of research:
+Non-linear dynamical systems arise in finance, biology,
+and materials, and their qualitative and asymptotic
+behavior is derived from a pedestal of g
+eometrical points together with numerical simulations.
+Prerequisites
+Applicants should possess a strong foundation and demonstrated interest in
+Ordinary and Partial Differential Equations, as well as Mathematical Analysis.
+Proficiency or prior experience with scientific computational tools
+such as MATLAB, Mathematica, or Python will be considered an added advantage
+APPLY NOW
+Computation of Localized Waves in Physical Systems
+KNOW MORE
+Computation of Localized Waves in Physical Systems
+Solitons, a mathematical structure arising in nonlinear partial di
+fferential equations (PDEs), play a crucial role in modelling
+localized wave phenomena. They are especially useful for long-distance
+data transmission due to their stability and coherence properties.
+In this work, we aim to study evolutionary PDEs governing localized waves
+and develop computational methods for their accurate simulation and analysis.
+RESEARCH SUPERVISOR
+Dr. Priyambada Tripathi
+Dr Priyambada is an expert in the field of qualitative exploration of dynamical systems,
+which consists of the chaotic behavior of the systems, the synchro- nization of two or more systems, control parameters,
+and the stability of the system.
+Proposed Area of Research:
+Following are the proposed area of research:
+Non-linear dynamical systems arise in finance, biology,
+and materials, and their qualitative and asymptotic
+behavior is derived from a pedestal of g
+eometrical points together with numerical simulations.
+Prerequisites
+Applicants should possess a strong foundation and demonstrated interest in
+Ordinary and Partial Differential Equations, as well as Mathematical Analysis.
+Proficiency or prior experience with scientific computational tools
+such as MATLAB, Mathematica, or Python will be considered an added advantage
+APPLY NOW
+Interplay between Economic Game theory and Combinatorial Game theory
+KNOW MORE
+Interplay between Economic Game theory and Combinatorial Game theory
+This research examines the interplay between Economical Game Theory and Combinatorial Game
+Theory to develop new insights into strategic decision-making in discrete economic environments.
+While Economical Game
+Theory emphasizes rational behavior, incentives, and equilibria in markets,
+Combinatorial Game Theory focuses on perfect-information games with structured,
+rule-based moves. By integrating these approaches, the study explores how combinatorial
+structures can model economic scenarios involving indivisible resources, sequential strategies,
+and discrete constraints. The goal is to create a unified theoretical framework that captures
+both strategic interaction and structural complexity, with applications in auctions,
+resource allocation, and market design.
+RESEARCH SUPERVISOR
+Dr. Ravi Kant Rai
+Assistant Professor, School of Computational and Data Sciences
+Former Post Doctoral Research Associate at the University of Liverpool
+Former Assistant Professor fixed term at Kyushu University
+Ph.D. IIT Bombay
+About Dr. Ravi Kant Rai
+Before joining Vidyashilp University, Dr. Ravi Kant Rai was a Post Doctoral Research Associate at the University of Liverpool, United Kingdom. He has his Ph.D. in Industrial Engineering and Operations Research department from IIT Bombay. He also held previous positions as a Postdoc and then as a fixed-term Assistant Professor at Kyushu University, Japan. He has published his research in journals and also serves as a Program Committee member of reputed conferences. His research interest lies around Game Theory and Mechanism Design. He is particularly interested in Combinatorial Game theory,
+and various bidding variants of several Combinatorial games.
+APPLY NOW
+Learning in Combinatorial Game theory using Cognitive Psychology
+KNOW MORE
+Interplay between Economic Game theory and Combinatorial Game theory
+This research explores the intersection of cognitive psychology and learning processes in combinatorial games to understand how humans develop strategic thinking in structured, rule-based environments. Combinatorial games, characterized by perfect information and discrete moves, offer an ideal setting to study decision-making, pattern recognition, and problem-solving. The study investigates how cognitive factors such as memory, attention, and heuristics influence learning trajectories and strategy formation. It also examines the role of feedback, experience, and cognitive load in mastering game complexity. Insights aim to enhance educational tools, AI-human interaction models, and cognitive training through structured, game-based learning frameworks.
+RESEARCH SUPERVISOR
+Dr. Ravi Kant Rai
+Assistant Professor, School of Computational and Data Sciences
+Former Post Doctoral Research Associate at the University of Liverpool
+Former Assistant Professor fixed term at Kyushu University
+Ph.D. IIT Bombay
+About Dr. Ravi Kant Rai
+Before joining Vidyashilp University, Dr. Ravi Kant Rai was a Post Doctoral Research Associate at the University of Liverpool, United Kingdom. He has his Ph.D. in Industrial Engineering and Operations Research department from IIT Bombay. He also held previous positions as a Postdoc and then as a fixed-term Assistant Professor at Kyushu University, Japan. He has published his research in journals and also serves as a Program Committee member of reputed conferences. His research interest lies around Game Theory and Mechanism Design. He is particularly interested in Combinatorial Game theory,
+and various bidding variants of several Combinatorial games.
+APPLY NOW
+Deblurring the Real World: Deep Learning Approaches for Complex Image Degradation
+KNOW MORE
+Deblurring the Real World: Deep Learning Approaches for Complex Image Degradation
+Developing deep learning-based methods for real-world image with reduced blurring-
+the task of recovering clear images from blurred inputs caused by camera shake,
+motion, or defocus. While deep learning has advanced this field significantly,
+challenges remain, particularly in handling real-world scenarios with multiple
+degradations (e.g., saturation, noise, low resolution), domain-specific data (e.g., faces,
+text, HSI, Underwater Images, Medical Images), and high-resolution images (e.g., 4K,
+HDR). Current models often lack interpretability and are computationally intensive.
+Research opportunities include designing efficient architectures (e.g., MobileNet,
+Vision Transformers, neural architecture search), developing joint restoration models
+for multi-factor degradation, and creating explainable models using attention maps or
+feature/visualization.
+RESEARCH SUPERVISOR
+Dr. Mahendra B M
+Dr. Mahendra B M, an esteemed academic and researcher, brings more than one and a half decades
+of experience in higher education. Holding a Ph.D., MTech, and Bachelor of Engineering from Visvesvaraya
+Technological University, he specializes in Image Deblurring, Machine Learning, and Computer Vision.
+With over 10 published papers and 2 filed patents, he has received accolades including the IEEE COMSOC
+Protsahan Award for best journal publication and the Best Research Paper Award at an International Conference.
+Dr. Mahendra has led the establishment of the Center of Excellence in EV Technology with MG Motor
+India and has completed over 5 consultancy projects. He also serves as a reviewer for top journals
+and has contributed to numerous SDP and FDP programs across the state. Furthermore, Dr. Mahendra has worked
+at various capacities in department and college-level efforts for accreditations and statutory bodies such as
+NAAC and NBA.
+Pre-requisites
+A strong foundation in deep learning, image processing, and Python programming;
+familiarity with PyTorch or TensorFlow is desirable.
+APPLY NOW
+AI safety
+KNOW MORE
+AI safety
+In this theme we would like to explore the security vulnerabilities in AI
+models and techniques to combat such issues.
+RESEARCH SUPERVISOR
+Dr. Devanand Thanissery
+Dr. Devanand Thanissery is an Assistant Professor at Vidyashilp University with expertise in Signal Processing,
+Machine Learning, and Computational Neuroscience. He was SRF at IMSc from 2014-2020 & awarded GATE Fellowship
+from August 2010 to June 2012 for M.Tech. His research focuses on utilizing advanced techniques to understand
+and diagnose neurodegenerative diseases, particularly Alzheimer's disease. Prior to his current role, he was a
+Postdoctoral Fellow at the Centre for Brain Research (CBR) at IISc Bangalore, where he led research projects
+investigating the application of EEG signals in Alzheimer's disease diagnosis using machine learning methods.
+He also held a Postdoctoral Research Fellow position at Ben-Gurion University, focusing on the intersection of
+computational psychology of facial expressions and artificial intelligence. Dr. Devanand Thanissery holds a
+Ph.D. in Computational Biology from IMSc Chennai, an M.Tech. in Electronics Design and Technology from NIT Calicut,
+and a B.Tech. in Electronics and Communication Engineering from the University of Calicut. Before his doctoral studies,
+he briefly worked as an Assistant Professor at Nehru College of Engineering and Research Centre, Thrissur.
+Pre-requisites
+The student should be well equipped with the basics of ML and AI, necessary tools like
+pytorch/TensorFlow etc.
+APPLY NOW
+Physics of Learning Machines
+KNOW MORE
+Physics of Learning Machines
+Looking at AI algorithms and their learning dynamics
+etc, from a perspective of statistical mechanics is a very rewarding one. "Statistical
+Mechanics"  and specifically "Complex Systems"  offers a very intuitive understanding
+of how "artificial intelligence"  emerges from a lot of interacting agents(say artificial
+neurons).
+RESEARCH SUPERVISOR
+Dr. Devanand Thanissery
+Dr. Devanand Thanissery is an Assistant Professor at Vidyashilp University with expertise in Signal Processing,
+Machine Learning, and Computational Neuroscience. He was SRF at IMSc from 2014-2020 & awarded GATE Fellowship
+from August 2010 to June 2012 for M.Tech. His research focuses on utilizing advanced techniques to understand
+and diagnose neurodegenerative diseases, particularly Alzheimer's disease. Prior to his current role, he was a
+Postdoctoral Fellow at the Centre for Brain Research (CBR) at IISc Bangalore, where he led research projects
+investigating the application of EEG signals in Alzheimer's disease diagnosis using machine learning methods.
+He also held a Postdoctoral Research Fellow position at Ben-Gurion University, focusing on the intersection of
+computational psychology of facial expressions and artificial intelligence. Dr. Devanand Thanissery holds a
+Ph.D. in Computational Biology from IMSc Chennai, an M.Tech. in Electronics Design and Technology from NIT Calicut,
+and a B.Tech. in Electronics and Communication Engineering from the University of Calicut. Before his doctoral studies,
+he briefly worked as an Assistant Professor at Nehru College of Engineering and Research Centre, Thrissur.
+Pre-requisites
+The student who is interested in working on this theme would also require statistical
+mechanics training or should be motivated to learn the necessary concepts from
+physics.
+APPLY NOW
+Sustainable Marketing and Responsible Consumption
+KNOW MORE
+Sustainable Marketing and Responsible Consumption
+Research on sustainable
+tourism, aligning marketing strategies with environmental consciousness and social
+responsibility.
+RESEARCH SUPERVISOR
+Dr. Anuj Verma
+Dr. Anuj Verma is an accomplished academician and marketing professional with over 15 years of
+diversified experience spanning industry and academia. He has published over 20 research papers in
+reputed Scopus and ABDC-indexed journals on topics such as consumer behaviour, digital marketing, AI in CRM,
+and sustainable marketing. Dr. Verma has also authored a book, contributed case studies, and presented at
+leading conferences including IIM Indore, Kozhikode, and Nagpur. He has completed a CSR consultancy project
+for the GMR Group and received the Young Achiever’s Award in Management. His previous corporate roles at
+Mahindra Holidays, ITC, and Make My Trip lend practical depth to his academic work.
+Pre-requisites
+Basic proficiency in qualitative and/or quantitative research methods.
+Working knowledge of any statistical tool like SPSS, R, Python, AMOS
+APPLY NOW
+Deep Model Compression
+KNOW MORE
+Deep Model Compression
+Deep learning models often require significant
+computational resources for training and inference, limiting their deployment on
+edge or mobile devices. Deep model compression aims to reduce the model size
+and computational cost without compromising performance. Techniques such as
+pruning, quantization, knowledge distillation, and low-rank factorization are
+explored to make models lightweight and efficient. This research will focus on
+developing adaptive and data-driven compression strategies to maintain accuracy
+across diverse deployment scenarios. The goal is to design generalizable and
+hardware-aware compression methods that facilitate real-world applications in
+resource-constrained environments.
+RESEARCH SUPERVISOR
+Dr. Shabbeer Basha
+Dr. Shabbeer Basha is an accomplished professional with expertise in computer vision, machine
+learning. With a strong academic background and industry experience, he has contributed in building low
+compute vision models, neural architecture search. His work focuses on neural network compression,
+deep active learning, multitask learning, and domain adaptation.
+Passionate about education and innovation, Shabbeer has published research articles in reputed
+journals and conferences.
+Pre-requisites
+These problems are fundamental for building efficient, scalable, and adaptable AI
+systems. Candidates will explore algorithmic innovations and real-world
+applications across computer vision, health, and edge-AI platforms.
+APPLY NOW
+Active Learning
+KNOW MORE
+Active Learning
+In many machine learning tasks, labeling data is expensive and
+time-consuming. Active learning addresses this by identifying and selecting the
+most informative data samples for annotation, thereby reducing the labeling effort
+while maintaining model performance. This research will develop novel query
+strategies that effectively estimate sample uncertainty or representativeness,
+particularly in high-dimensional and imbalanced settings. We will explore batch-
+mode, diversity-driven, and task-aware approaches for various applications such
+as vision and speech. The aim is to build scalable, reliable, and low-cost training
+pipelines that are robust to noise and domain shifts.
+RESEARCH SUPERVISOR
+Dr. Shabbeer Basha
+Dr. Shabbeer Basha is an accomplished professional with expertise in computer vision, machine
+learning. With a strong academic background and industry experience, he has contributed in building low
+compute vision models, neural architecture search. His work focuses on neural network compression,
+deep active learning, multitask learning, and domain adaptation.
+Passionate about education and innovation, Shabbeer has published research articles in reputed
+journals and conferences.
+Pre-requisites
+These problems are fundamental for building efficient, scalable, and adaptable AI
+systems. Candidates will explore algorithmic innovations and real-world
+applications across computer vision, health, and edge-AI platforms.
+APPLY NOW
+Domain Adaptation
+KNOW MORE
+Domain Adaptation
+Machine learning models trained on one domain often
+perform poorly when deployed in a different but related domain due to domain
+shift. Domain adaptation seeks to bridge this gap by aligning feature distributions
+between the source (labeled) and target (unlabeled) domains. This research
+explores adversarial learning, discrepancy minimization, and self-supervised
+techniques for both single- and multi-source settings. Applications include image
+classification, object detection, and healthcare. The focus is on building models
+that generalize effectively across domains with minimal supervision, ensuring
+robustness and fairness in deployment scenarios where annotated data is scarce or
+unavailable.
+RESEARCH SUPERVISOR
+Dr. Shabbeer Basha
+Dr. Shabbeer Basha is an accomplished professional with expertise in computer vision, machine
+learning. With a strong academic background and industry experience, he has contributed in building low
+compute vision models, neural architecture search. His work focuses on neural network compression,
+deep active learning, multitask learning, and domain adaptation.
+Passionate about education and innovation, Shabbeer has published research articles in reputed
+journals and conferences.
+Pre-requisites
+These problems are fundamental for building efficient, scalable, and adaptable AI
+systems. Candidates will explore algorithmic innovations and real-world
+applications across computer vision, health, and edge-AI platforms.
+APPLY NOW
+SCHOOL OF LEGAL STUDIES AND GOVERNANCE
+Law, Regulation, and Sustainability in a Changing World
+KNOW MORE
+Law, Regulation, and Sustainability in a Changing World
+Areas/Domain of Research
+Regulatory Governance:
+Regulatory Impact Analysis; ESG and Sustainability, Regulatory State
+Environment Law:  Water Law; Minerals and Mining; Circular Economy and Waste Management
+Labour Law:  Informal Economy Workers; Platform and Gig Workers; Global Supply Chain and Due Diligence
+RESEARCH SUPERVISOR
+Prof. Roopa Madhav
+Professor (Dr.) Roopa Madhav, an alumna of the first B.A. LL.B. (Hons.) batch at NLS Bangalore, is a distinguished legal scholar and practitioner with extensive experience across litigation, academia, and policy research. A founder of the Alternative Law Forum in Bangalore, she holds an LL.M. from New York University (NYU) and a Ph.D. from SOAS, University of London. After nearly a decade in legal practice covering labor, service, property, and commercial law, she served as Associate Professor and Chairperson of the Centre for Water Policy, Regulation and Governance at Tata Institute of Social Sciences (TISS), Mumbai.
+She currently contributes to the Environmental Justice LL.M. programme at NLU Delhi and SOAS as a Visiting Professor. Prof. Madhav has collaborated with international organizations like WIEGO and IELRC and served on several Planning Commission working groups on water. Her research spans environmental law, labor rights, human rights, and regulatory governance, and she has held editorial roles with JNLUD and LEAD journal. Her recent work includes co-editing Mapping Legalities – Urbanisation, Law and Informal Work (Routledge, 2024), and she currently leads research on domestic workers (ICSSR) and co-leads an ERC-funded project on sectoral water conflicts in South Asia with Prof. Philippe Cullet.
+Pre-requisites
+LLM / M.A/M.Sc Regulatory Governance
+APPLY NOW
+Interdisciplinary Legal Research and Policy Innovation
+KNOW MORE
+Interdisciplinary Legal Research and Policy Innovation
+Areas/Domain of Research
+Human Rights Law, Sanitation Law and Policy, Environmental Law,
+Administrative Law, Constitutional Law, Technology
+Law and AI Ethics, Law and Gender Justice, Legal Education and Pedagogy,
+Law and Public Policy,
+Alternative Dispute Resolution
+RESEARCH SUPERVISOR
+Dr. Amlanika Bora
+Dr. Amlanika Bora is an Assistant Professor of Law at the School of Legal Studies and Governance, Vidyashilp University, Bengaluru. She holds a Ph.D. from the West Bengal National University of Juridical Sciences (WBNUJS), Kolkata, and earned her B.A. LL.B. and LL.M. from Dibrugarh University, Assam, where she was the LL.M. university topper. A UGC-NET qualified scholar with a Junior Research Fellowship (Law), Dr. Bora has previously taught at REVA University, Presidency University, CMR University, CHRIST (Deemed to be University), Bangalore Institute of Legal Studies, and as visiting faculty at Ramaiah College of Law.
+She has authored the books UGC-NET/JRF (Law) Examination Solved Papers – Subjectwise and Gendering Public Policy in a Global Context, both published by Central Law Publications. Her notable contributions include research on gender-based violence and deinstitutionalization featured in reports submitted to the UN Human Rights Council and the UN Committee on the Rights of Persons with Disabilities in 2022. She has also participated in international forums such as the UN Virtual Expert Workshop on Access to Medicines and the Asia-Pacific Regional Seminar on Human Rights and Development in 2023.
+Recognized with Best Paper Awards for her work on environmental justice and international environmental law, Dr. Bora has authored around 12 journal articles and presented approximately 35 papers at national and international academic forums, with research interests spanning sanitation law, human rights, gender justice, and public policy.
+Pre-requisites
+Applicants should have a sound foundational understanding of law and a genuine interest in pursuing independent research. Proposals using doctrinal, empirical, or interdisciplinary methodologies are welcome. Candidates are encouraged to explore diverse approaches aligned with their research interests. Prior experience in academic writing, policy engagement, or fieldwork will be an added advantage.
+APPLY NOW
+SCHOOL OF LIBERAL ARTS AND DESIGN STUDIES
+Sociology / Anthropology of Marriage and Kinship
+KNOW MORE
+Sociology / Anthropology of Marriage and Kinship
+Marriage and kinship have been foundational to the disciplines of Sociology and Anthropology, and a key gateway to understand societies. Key theoretical interventions in kinship studies, especially influenced by feminist approaches have ‘denaturalised’ kinship towards more processual and performative dimensions of relatedness. These interventions continue to inform our knowledge about social hierarchies, intimacies and personhood. Relatedness, broadly conceived, is also central to movements for social and policy changes, to understand other social constellations or identities based on gender, ethnicity, class, or caste.
+RESEARCH SUPERVISOR
+Prof. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in Sociology/Anthropology at Vidyashilp University. Her research has spanned the Anthropology of Kinship & Relatedness, Phenomenology of Religion, Everyday Life, and Migration & Diaspora Studies. Ranjana has conducted ethnographic field research in Mumbai, Singapore and Malaysia exploring women’s lived experiences of home, belonging and intimacies. She received her PhD from the National University of Singapore (NUS), where she also taught courses on Asian Studies, Popular cultures, South Asian diasporas, Marriage and Kinship, and Human-Environment interactions. Her doctoral thesis won the Ground-breaking Subject Matter Accolade at the International Convention of Asia Scholars Book Prize 2021 and the Best PhD Dissertation in South Asian Studies award in NUS for 2020.
+Pre-requisites
+A draft research proposal which outlines a tentative research problem and literature review. Some exposure at master’s level to humanities or social sciences.
+APPLY NOW
+Migration and South Asian Diasporas
+KNOW MORE
+Migration and South Asian Diasporas
+Migration and Diaspora studies is a rich inter-disciplinary field, which now contributes to several policy discussions, and more nuanced understanding of the histories of south Asian Diasporas, lived experiences of migrants in diverse and multicultural contexts, and the ways in which gender, ethnicity and class intersect with the broader trends. Rootedness or being settled have often been conceptualized as the norm of human societies, and migration as an aberration or disruption. However, migration and mobility have been central to human existence since the days of early civilizations. In the ‘modern’ contexts with a greater emphasis on borders, migration is a highly complex and layered phenomenon. South Asian diaspora is among the world’s largest and widespread, and it continues to grow exponentially. The rise of refugees from war-torn regions, have brought an urgent focus on the experiences of migration and borders. Additionally, ‘domestic’ migration has come to typify the experiences of millions of people in Asian contexts.
+RESEARCH SUPERVISOR
+Prof. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in Sociology/Anthropology at Vidyashilp University. Her research has spanned the Anthropology of Kinship & Relatedness, Phenomenology of Religion, Everyday Life, and Migration & Diaspora Studies. Ranjana has conducted ethnographic field research in Mumbai, Singapore and Malaysia exploring women’s lived experiences of home, belonging and intimacies. She received her PhD from the National University of Singapore (NUS), where she also taught courses on Asian Studies, Popular cultures, South Asian diasporas, Marriage and Kinship, and Human-Environment interactions. Her doctoral thesis won the Ground-breaking Subject Matter Accolade at the International Convention of Asia Scholars Book Prize 2021 and the Best PhD Dissertation in South Asian Studies award in NUS for 2020.
+Pre-requisites
+A draft research proposal which outlines a tentative research problem and literature review. Some exposure at master’s level to humanities or social sciences.
+APPLY NOW
+Phenomenology of Religion
+KNOW MORE
+Phenomenology of Religion
+The significance of religion has not waned due to modernisation, secularisation and globalisation processes, instead it continues to grow, as evident from the increase in religion-driven conflicts and nationalisms around the world. While the monothetic or Judeo-Christian conceptions of religion as a category have been challenged, a broader emphasis on text-based and dominant forms of religions have been central to conversations on religion. The phenomenology of religion has brought a focus on the intimate, personal and experiential dimensions of religions, which provides exciting pathways to explore social hierarchies and embodiments in everyday life. Moreover, vernacular and indigenous practices in everyday life provide new understandings of other social processes such as urbanisation and migration.
+RESEARCH SUPERVISOR
+Prof. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in Sociology/Anthropology at Vidyashilp University. Her research has spanned the Anthropology of Kinship & Relatedness, Phenomenology of Religion, Everyday Life, and Migration & Diaspora Studies. Ranjana has conducted ethnographic field research in Mumbai, Singapore and Malaysia exploring women’s lived experiences of home, belonging and intimacies. She received her PhD from the National University of Singapore (NUS), where she also taught courses on Asian Studies, Popular cultures, South Asian diasporas, Marriage and Kinship, and Human-Environment interactions. Her doctoral thesis won the Ground-breaking Subject Matter Accolade at the International Convention of Asia Scholars Book Prize 2021 and the Best PhD Dissertation in South Asian Studies award in NUS for 2020.
+Pre-requisites
+A draft research proposal which outlines a tentative research problem and literature review. Some exposure at master’s level to humanities or social sciences.
+APPLY NOW
+Urban Studies
+KNOW MORE
+Urban Studies
+Bangalore is the third most populous city of India, with a population of over ten million. It exploded into an urban agglomeration after the Information Technology boom at the turn of the millennium. However, academic research about the city have approached it mainly as a case study for globalization, unchecked development and urban problems. I seek to understand and map the processes of urbanization through entanglements of gender, religion and inequalities, and how they inflect the experiences of diverse individuals and groups in the city.
+RESEARCH SUPERVISOR
+Prof. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in Sociology/Anthropology at Vidyashilp University. Her research has spanned the Anthropology of Kinship & Relatedness, Phenomenology of Religion, Everyday Life, and Migration & Diaspora Studies. Ranjana has conducted ethnographic field research in Mumbai, Singapore and Malaysia exploring women’s lived experiences of home, belonging and intimacies. She received her PhD from the National University of Singapore (NUS), where she also taught courses on Asian Studies, Popular cultures, South Asian diasporas, Marriage and Kinship, and Human-Environment interactions. Her doctoral thesis won the Ground-breaking Subject Matter Accolade at the International Convention of Asia Scholars Book Prize 2021 and the Best PhD Dissertation in South Asian Studies award in NUS for 2020.
+Pre-requisites
+A draft research proposal which outlines a tentative research problem and literature review. Some exposure at master’s level to humanities or social sciences.
+APPLY NOW
+Religiosity and Well-being: An inter-disciplinary exploration of personal and social
+perspectives
+KNOW MORE
+Religiosity and Well-being: An inter-disciplinary exploration of personal and social
+perspectives
+This research project explores the relationship between religiosity and well-being, broadly
+conceived. It adopts a comparative and inter-disciplinary approach by weaving psychological
+and social-anthropological perspectives. In particular, the research seeks to document diverse
+religious practices and experiences, and their relationships to people’s sense of well-being.
+The research intends to explore such practices across diverse religious traditions in India.
+Within the broad fields of Psychology, religious and spiritual practices and faith have been
+indicated to influence well-being directly and indirectly. Gratitude, forgiveness, purpose,
+meaning and social support have been identified by research studies as mediating factors for
+well-being. However, the defining features of these factors remain understudied, especially in
+the Indian context. Additionally, this study also aims to understand personality dispositions of
+the participants, their coping behaviours and the efficacy of existing subjective well-being
+scales. Although many research studies show a positive relationship between religiosity and
+well-being, the mechanisms remain poorly understood because of the participant groups and
+methods they employ. Also, psychiatrists are turning to this research as the dimension of
+religious practice can be explored for therapeutic purposes (especially for those who already
+hold religious beliefs).
+Studies on religiosity and spiritual practices have a long history within anthropology of
+religion. In the broad area of scholarship in religious studies, scholars have repudiated
+monotheist conceptions of religion and highlighted that it is not a sui generis category, but a
+shorthand to encapsulate multiplicity of practices that underpin people’s everyday worlds.
+Studies have highlighted the entanglements of these everyday worlds with ritual, social order
+and group politics, or have explored the phenomenological experiences of devotion, rituals
+and intimacies. In particular, ritual healing through trance or divine possessions have
+highlighted the social and cultural elements of well-being.
+The anthropological inquiry of this research project is located in people’s everyday
+experiences. While the relationship of devotion between the deity and devotee has been
+explored within phenomenology of religion, the relations in the everyday religious worlds
+through communities, rituals and intimacies are under-explored in the urban contexts of
+Karnataka, which this study seeks to explore.
+Research approach:
+The research is currently located in the state of Karnataka, India. It adopts qualitative social
+research methods such as ethnographic fieldwork, participant interviews and historical
+analyses. The Principal Investigators of this project are Dr Setu Havanur and Dr Ranjana
+Raghunathan, whose academic backgrounds are in Psychology and Sociology/Anthropology
+respectively.
+PhD Candidate profile:
+We are seeking doctoral candidates to work on this research project. The ideal candidate will
+have at least a master’s degree in Psychology, Sociology/Anthropology, Social work, History
+or allied fields in the social sciences and humanities. Research interests or experience in
+qualitative research methodologies is required.
+RESEARCH SUPERVISOR
+Dr. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in the School of
+Liberal Arts and Design Studies at Vidyashilp University, Bangalore. Her research interests
+are in Anthropology of Kinship & Relatedness, Phenomenology of Religion, Everyday Life,
+and Urban Ethnography. She received her PhD in 2020 from the National University of
+Singapore (NUS), where she also taught undergraduate courses. Ranjana has conducted
+ethnographic field research in Singapore and Mumbai, where she explored issues of
+home/belonging, intimacies, religion and marginalization. Her research has been published in
+peer-reviewed journals and edited volumes. Her doctoral thesis won the Ground-breaking
+Subject Matter Accolade at the International Convention of Asia Scholars Book Prize 2021
+and the Best PhD Dissertation in South Asian Studies award in NUS for 2020.
+RESEARCH SUPERVISOR
+Dr. Setu Havanur
+Dr. Setu Havanur is an Assistant Professor in the School of Liberal Arts
+and Design Studies at Vidyashilp University. She comes with over 5 years of teaching
+experience mainly at undergraduate level but also briefly at postgraduate level. Throughout
+her career, her focus has been on enriching the classroom experience, especially in the
+context of teaching Psychology. Her most recent experience comes from working in a
+dementia research project at the prestigious National Institute of Mental Health and
+Neurosciences (NIMHANS).  Dr. Setu Havanur completed her masters in cognitive science
+from Centre for Behavioural and Cognitive Sciences (University of Allahabad) and earned
+her PhD from University of Birmingham, UK. Her broad research interests lie in the areas of
+cognition, pedagogy and mental health. When she is not teaching or doing research, she loves
+reading, embroidering, cooking, trekking and singing.
+APPLY NOW
+Economic History
+KNOW MORE
+Economic History
+A study of Economic History is rich in themes, geographies, and methods.  Themes could
+range from colonialisation, agriculture, trade, livelihoods, innovation, etc.  Geographies –
+the only restriction is the planet.  Methods often used in economic history are of course
+empirical, but also, narrative, descriptive, phenomenological, ethnographic, archival, to
+name just a few.
+With a canvas as vast as this, the discipline is in fact a colourful place to learn and create
+knowledge in.
+RESEARCH SUPERVISOR
+Dr. Sheetal Bharat
+Sheetal’s research in the areas of history of economic thought and economic history has
+brought her immense satisfaction. Importantly, it has helped her gain a better understanding
+of the discipline of economics even after being part of it for over 25 years. She wishes to
+share this joy with doctoral scholars who are interested in these areas of research and will
+be happy to guide them in their journey.
+These are demanding areas of study and there are the challenges of understanding the
+works of earlier scholars in the context of their worldview, perceiving angles not yet
+identified, being willing to revise our own notions based on fresh readings, etc. I look
+forward to participating in this process of discovery together with eager young scholars.
+Pre-requisites
+High level of skill in organisation of ideas and composition
+Completion of fundamental economics courses in undergraduate and/or
+postgraduate level
+APPLY NOW
+Urban Ethnography around Neighbourhoods in Bangalore
+KNOW MORE
+Urban Ethnography around Neighbourhoods in Bangalore
+Areas of Bangalore (or any town/city) are rich with historical and anthropological insights.
+Barring a few research projects, Bangalore has predominantly been a case study for
+understanding globalisation, unchecked development, and the consequent exacerbation of
+urban problems. Consequently, literary writings on the city through fiction and conservation
+of heritage have gained recent attention. What are the imaginaries of the city for its
+inhabitants? How does one write about the city beyond the problems of urban development
+and infrastructure problems? By placing the neighbourhood at the centre of this inquiry, Dr
+Ranjana Raghunathan, the principal investigator has begun working on this research by
+attending to the everyday moments in the life of the city neighbourhood.
+Research approach:
+This research is an urban ethnography and ethno-history project of select neighbourhoods
+around Bangalore. It traces the social and cultural histories of these neighbourhoods through
+the experiences, memories and personal histories of its inhabitants. It examines the different
+aspects of urban neighbourhoods, such as histories of social change, religious communities,
+educational institutions, heritage sites, and key places of interest. It adopts ethnographic
+research methods (such as field observation, interviews, oral histories) and historical
+analyses.
+PhD Candidate profile:
+We are seeking doctoral candidates to work on this research project. The ideal candidate will
+have at least a master’s degree in Sociology/Anthropology, Social work, History, Urban
+Studies or allied fields in the social sciences and humanities. Research interests or
+experience in qualitative research methodologies is required.
+RESEARCH SUPERVISOR
+Dr. Ranjana Raghunathan
+Ranjana Raghunathan is an Assistant Professor in the School
+of Liberal Arts and Design Studies at Vidyashilp University, Bangalore. Her research
+interests are in Anthropology of Kinship & Relatedness, Phenomenology of Religion,
+Everyday Life, and Urban Ethnography. She received her PhD in 2020 from the National
+University of Singapore (NUS), where she also taught undergraduate courses.
+Ranjana has
+conducted ethnographic field research in Singapore and Mumbai, where she explored issues
+of home/belonging, intimacies, religion and marginalization. Her research has been
+published in peer-reviewed journals and edited volumes. Her doctoral thesis won the
+Ground-breaking Subject Matter Accolade at the International Convention of Asia Scholars
+Book Prize 2021. Prior to her foray in academia, Ranjana has worked for over a decade in
+the development sector and she has a master’s degree in Social work from the Tata Institute
+of Social Sciences.
+APPLY NOW
+Financial Economics
+KNOW MORE
+Financial Economics
+Financing and investment decisions are two major make-or-break decisions of firms.
+Access to capital markets in emerging economies is often hindered by weak
+institutions, concentrated ownership, and information asymmetry. Understanding
+how firms navigate these constraints to raise capital is a key puzzle demanding
+empirical investigation. Furthermore, considering that a nation's economic health
+hinges on business investment, analyzing the factors influencing these choices is
+equally important. More research is required to provide valuable insights into both
+financing methods and investment decision-making processes, ultimately
+contributing to a deeper understanding of this vital economic engine.
+Other research interests: Market sentiments and security performance, Asset
+Pricing, Corporate Finance, Corporate Governance and Fintech
+RESEARCH SUPERVISOR
+Dr. Bipin Sony
+Bipin Sony is an Assistant Professor of Economics and Finance in the School of
+Liberal Arts and Design Studies at the Vidyashilp University. His expertise spans
+financial economics, corporate finance, financial markets, and macroeconomics.
+Dr.Sony's research, published in leading academic journals, sheds light on these areas.
+Pre-requisites
+MA/MSc in Economics/Financial Economics/Quantitative
+Economics/MBA in Finance
+Desirable
+Data analysis skills using R/Python/STATA
+APPLY NOW
+Macroeconomics
+KNOW MORE
+Macroeconomics
+Rising prices poses a significant challenge for the Indian economy, impacting
+individuals and businesses nationwide.There exist a complex relationship between
+inflation and production in the Indian economy. It is important to disaggregate
+inflation into its various components and analyze how each component is linked to
+production issues at both the national and state levels. This disaggregated approach
+will allow for a more nuanced understanding of the inflationary pressures in India. By
+employing empirical methods to identify production bottlenecks within specific
+sectors that contribute to inflation, such a study will ultimately provide valuable
+insights for policymakers to formulate targeted interventions to stimulate production
+and achieve price stability. Additionally, the research will analyze state-level
+variations in inflation and production linkages, offering a deeper understanding of
+regional disparities and informing the development of tailored solutions for individual
+states.
+Other research interests: Capital formation; Fiscal policy
+RESEARCH SUPERVISOR
+Dr. Bipin Sony
+Bipin Sony is an Assistant Professor of Economics and Finance in the School of
+Liberal Arts and Design Studies at the Vidyashilp University. His expertise spans
+financial economics, corporate finance, financial markets, and macroeconomics.
+Dr.Sony's research, published in leading academic journals, sheds light on these areas.
+Pre-requisites
+Masters Degree in Economics
+Desirable
+Data analysis skills using R/Python/STATA
+APPLY NOW
+Bio-psycho-social Pathways to Health and Wellbeing
+KNOW MORE
+Bio-psycho-social Pathways to Health and Wellbeing
+The overarching focus of clinical health psychology is the interaction between physical
+health, illness, and behavior. The holistic approach shifts the emphasis of health from the
+biomedical to the biopsychosocial model. I’m inquisitive in exploring the areas of health
+promotion and maintenance, prevention, and treatment of illness, the etiology and correlates
+of health, illness and dysfunction, and improvement of the health care system. I’m also
+interested in identifying the determinants of food choice behavior
+RESEARCH SUPERVISOR
+Dr.Gargi S Kumar
+Dr.Gargi S Kumar is an Assistant Professor of Psychology at Vidyashilp University (VU). Dr
+Gargi has served as a project coordinator in the Neuro-palliative care project at National
+Institute of Mental Health and Neurosciences (NIMHANS) in Bangalore. She has an
+extensive academic background with a Ph.D. in Psychology from IIT Bombay, M.Phil. in
+Psycho-oncology from the Cancer Institute (WIA), Chennai, and MSc in Health Psychology
+from the University of Hyderabad. She is a former visiting faculty member at the School of
+Liberal Arts, R V University, Bangalore, and the Thapar School of Liberal Arts and Sciences,
+Thapar Institute of Engineering and Technology, Patiala. She has also completed an
+International Honors Program about Big data in health care held by Taipei Medical
+University, Taiwan. She currently holds a research consultancy in the Neuro-palliative care
+project at NIMHANS.
+Pre-requisites
+Master’s or equivalent degree in Psychology (MA/MSc in any field of Psychology)
+awarded by a recognized university in India or abroad.
+Desirable
+M.Phil. in any field of Psychology.
+Knowledge of data analysis software, such as SPSS, R, NVivo/Atlas.t
+APPLY NOW
+Psycho-social and Palliative Care for
+People Living with Cancer/Chronic Illnesses
+KNOW MORE
+Psycho-social and Palliative Care for People Living with Cancer/Chronic Illnesses
+Cancer is one of the deadliest diseases in the world, and its many different forms are
+widespread across the globe. However, while a lot is known about the physical aspects of the
+disease, there is a pressing need to talk about the psychological implications of this disease.
+I’m interested in developing and facilitating high-quality, collaborative, and clinically
+relevant psycho-oncology research that focuses on innovative ways to improve the quality of
+life and psychological well-being of people affected by cancer. The study areas aim to
+improve outcomes for cancer patients and address the needs of vulnerable populations. I am
+also intrigued to explore palliative care for people living with serious illnesses and in
+informed decision-making and enhancing communication between patients, families, and
+healthcare providers.
+RESEARCH SUPERVISOR
+Dr.Gargi S Kumar
+Dr.Gargi S Kumar is an Assistant Professor of Psychology at Vidyashilp University (VU). Dr
+Gargi has served as a project coordinator in the Neuro-palliative care project at National
+Institute of Mental Health and Neurosciences (NIMHANS) in Bangalore. She has an
+extensive academic background with a Ph.D. in Psychology from IIT Bombay, M.Phil. in
+Psycho-oncology from the Cancer Institute (WIA), Chennai, and MSc in Health Psychology
+from the University of Hyderabad. She is a former visiting faculty member at the School of
+Liberal Arts, R V University, Bangalore, and the Thapar School of Liberal Arts and Sciences,
+Thapar Institute of Engineering and Technology, Patiala. She has also completed an
+International Honors Program about Big data in health care held by Taipei Medical
+University, Taiwan. She currently holds a research consultancy in the Neuro-palliative care
+project at NIMHANS.
+Pre-requisites
+Master’s or equivalent degree in Psychology (MA/MSc in any field of Psychology)
+awarded by a recognized university in India or abroad.
+Desirable
+M.Phil. in any field of Psychology.
+Knowledge of data analysis software, such as SPSS, R, NVivo/Atlas.t
+APPLY NOW
+History of Economic Thought
+KNOW MORE
+History of Economic Thought
+HET is a discipline that, after a few decades of neglect in university curricula, is making a
+return.  India has seen a thin but adequate scattering of high-quality conferences in the last
+few years.  Highlights of these conferences have been their workshops meant for young
+scholars and their enthusiastic acceptance of student research.  This is a heartening trend
+because HET is an invaluable part of the ecosystem of economics research.
+I see economics as a study of the relation between humans and their material surroundings.
+This gives it a scope much wider than what a standard textbook would lead one to believe.  I
+hold a similar view of the sub-discipline, history of economic thought.  Smith, Kautilya,
+Ricardo, Mill, Mises, etc. are some of the popular scholars whose works are studied, but HET
+also includes the works of the nameless hundreds who wrote anything at all to express their
+worldview and generate a discussion on their circumstances.  While HET continues to study
+the famous tomes written in the last three centuries, it considers it equally important to
+study scraps and snatches scribbled over the last two and a half millennia.
+The creation of knowledge in the area of history of economic thought plays two roles in the
+ecosystem of economics research.  First, it holds value by itself.  Knowing about the lives
+and perceptions of women who lived 2,500 years back or 250 years back is valuable for its
+own sake.  It has intrinsic value.  Second, such research adds perspective to the lives lived
+and perspectives held today.  It also has instrumental value.  Moden policy can be informed
+by studies of old.  An understanding of the process of creation of knowledge can help
+organise thought in a more meaningful way.  Over my years of teaching HET at the
+undergraduate and graduate levels, I have observed students express excitement for both
+these reasons.
+RESEARCH SUPERVISOR
+Dr. Sheetal Bharat
+Sheetal’s research in the areas of history of economic thought and economic history has
+brought her immense satisfaction. Importantly, it has helped her gain a better understanding
+of the discipline of economics even after being part of it for over 25 years. She wishes to
+share this joy with doctoral scholars who are interested in these areas of research and will
+be happy to guide them in their journey.
+These are demanding areas of study and there are the challenges of understanding the
+works of earlier scholars in the context of their worldview, perceiving angles not yet
+identified, being willing to revise our own notions based on fresh readings, etc. I look
+forward to participating in this process of discovery together with eager young scholars.
+Pre-requisites
+Postgraduate degree in economics
+High level of skill in organisation of ideas and composition
+APPLY NOW
+Machine Learning and Neural Network based models in Finance
+KNOW MORE
+Machine Learning and Neural Network based models in Finance
+Financing and investment decisions are two major make-or-break decisions of firms. Access to capital markets in emerging economies is often hindered by weak institutions, concentrated ownership, and information asymmetry. Understanding how firms navigate these constraints to raise capital is a key puzzle demanding empirical investigation. More research is required to provide valuable insights into both financing methods and investment decision-making processes, ultimately contributing to a deeper understanding of this vital economic engine.
+Further areas of interest are on Sentiment Analysis; Time Series Models using ML; Machine Learning and Neural Networks applications in Finance; Asset Pricing, ESG and Fintech.
+Areas
+Finance,Corporate Finance,Machine Learning and Neural Network based models in Finance
+RESEARCH SUPERVISOR
+Dr. Bipin Sony
+Bipin Sony is an Assistant Professor of Economics and Finance in the School of Liberal Arts
+and Design Studies at the Vidyashilp University (VU). His expertise spans financial economics,
+corporate finance, financial markets, and macroeconomics. Dr. Sony's research, published in
+leading academic journals, sheds light on these areas.
+Dr. Sony draws on his extensive experience as an Assistant Professor at
+Dr. B. R. Ambedkar School of Economics, where he significantly contributed
+to the development of an applied and quantitative curriculum. Additionally,
+his roles as a researcher at the Madras School of Economics and an analyst at Goldman
+Sachs provide valuable insights in his research and enable him to impart practical
+skills to his students.
+In the classroom, Dr. Sony fosters a dynamic learning environment that emphasizes
+data-driven decision-making. Utilizing an applied and quantitative approach, he integrates
+statistics and programming tools like R, Python into his curriculum. He actively leads
+training programs in financial econometrics, data analytics, and data visualization,
+empowering both students and industry professionals with the skills needed to navigate
+the complexities of modern finance and economics.
+Pre-requisites
+MBA (preferably with Finance)/ MA/MSc in Economics/Financial Economics/ Quantitative Economics.
+APPLY NOW
+Macroeconomics
+KNOW MORE
+Macroeconomics; Forecasting- Machine Learning and Neural Network based models
+The critical interplay between Fiscal Policy, its impact on Capital Formation, the resulting Multipliers within an economy, and the implications for Inflation are paramount to understanding macroeconomic stability and growth. Research in these areas offers vital insights into how government financial decisions shape economic landscapes, influence investment, propagate through the system, and affect price levels, particularly in today's volatile global environment. I am particularly interested in taking students who are willing to work on forecasting using Machine Learning models and Neural Networks.
+RESEARCH SUPERVISOR
+Dr. Bipin Sony
+Bipin Sony is an Assistant Professor of Economics and Finance in the School of Liberal Arts
+and Design Studies at the Vidyashilp University (VU). His expertise spans financial economics,
+corporate finance, financial markets, and macroeconomics. Dr. Sony's research, published in
+leading academic journals, sheds light on these areas.
+Dr. Sony draws on his extensive experience as an Assistant Professor at
+Dr. B. R. Ambedkar School of Economics, where he significantly contributed
+to the development of an applied and quantitative curriculum. Additionally,
+his roles as a researcher at the Madras School of Economics and an analyst at Goldman
+Sachs provide valuable insights in his research and enable him to impart practical
+skills to his students.
+In the classroom, Dr. Sony fosters a dynamic learning environment that emphasizes
+data-driven decision-making. Utilizing an applied and quantitative approach, he integrates
+statistics and programming tools like R, Python into his curriculum. He actively leads
+training programs in financial econometrics, data analytics, and data visualization,
+empowering both students and industry professionals with the skills needed to navigate
+the complexities of modern finance and economics.
+Pre-requisites
+Masters Degree in Economics/Business Economics/ Financial Economics.
+APPLY NOW
+Cultures and Literatures in English from Northeast India
+KNOW MORE
+Cultures and Literatures in English from Northeast India
+This research area will focus on cultural production and literatures in English from Northeast
+India, including vernacular writings that have been translated into English. At once removed
+from and, simultaneously, a hypervisualised “other” to the mainstream, the Northeastern
+region of the country elicits moments of subliminal awe (such as is the case of the NE as a
+tourist destination) and on-ground realities of resource extraction, indigenous land rights and
+ethno-nationalist politics. Such perspectives of the Northeastern region of India—as evinced
+in the work of scholars such as Sanjib Baruah, Bengt G. Karlsson, Dolly Kikon and
+others—offer insights into the modernisation of the region with literatures in English being
+one of the key manifestations of modernity in the Northeast. The questions that research in
+this area would hope to engage with are: 1) what is the impact of modernity—propagated
+through law, policies and politics—on the cultural production in the region? 2) what has
+changed, since British rule, to how the Northeast is viewed as a cultural category? 3) how is
+universality addressed in literatures and cultures from the Northeast India?
+RESEARCH SUPERVISOR
+Dr. Jobeth Ann Warjri
+Jobeth Ann Warjri holds a Ph.D. in English Literature from the Department of English,
+University of Hyderabad. Her doctoral thesis examined how cultural, linguistic and historical
+losses encourage kinship affiliations and belonging in the writings of Maya Angelou. Apart
+from literature, she is interested in how other cultural forms—music, performance,
+storytelling, art and films—communicate belonging through their appeal to intersectional
+racial, gendered and national identities in ways that are also universal.
+Pre-requisites
+A background in humanities and/or the social sciences and a research proposal under the
+preferred area of study.
+APPLY NOW
+Cultures and Literatures in English from Northeast India
+KNOW MORE
+Cultures and Literatures in English from Northeast India
+This research area will focus on cultural production and literatures in English from Northeast
+India, including vernacular writings that have been translated into English. At once removed
+from and, simultaneously, a hypervisualised “other” to the mainstream, the Northeastern
+region of the country elicits moments of subliminal awe (such as is the case of the NE as a
+tourist destination) and on-ground realities of resource extraction, indigenous land rights and
+ethno-nationalist politics. Such perspectives of the Northeastern region of India—as evinced
+in the work of scholars such as Sanjib Baruah, Bengt G. Karlsson, Dolly Kikon and
+others—offer insights into the modernisation of the region with literatures in English being
+one of the key manifestations of modernity in the Northeast. The questions that research in
+this area would hope to engage with are: 1) what is the impact of modernity—propagated
+through law, policies and politics—on the cultural production in the region? 2) what has
+changed, since British rule, to how the Northeast is viewed as a cultural category? 3) how is
+universality addressed in literatures and cultures from the Northeast India?
+RESEARCH SUPERVISOR
+Dr. Jobeth Ann Warjri
+Jobeth Ann Warjri holds a Ph.D. in English Literature from the Department of English,
+University of Hyderabad. Her doctoral thesis examined how cultural, linguistic and historical
+losses encourage kinship affiliations and belonging in the writings of Maya Angelou. Apart
+from literature, she is interested in how other cultural forms—music, performance,
+storytelling, art and films—communicate belonging through their appeal to intersectional
+racial, gendered and national identities in ways that are also universal.
+Pre-requisites
+A background in humanities and/or the social sciences and a research proposal under the
+preferred area of study.
+APPLY NOW
+Cultures and Literatures in English from Northeast India
+KNOW MORE
+Cultures and Literatures in English from Northeast India
+This research area will focus on cultural production and literatures in English from Northeast
+India, including vernacular writings that have been translated into English. At once removed
+from and, simultaneously, a hypervisualised “other” to the mainstream, the Northeastern
+region of the country elicits moments of subliminal awe (such as is the case of the NE as a
+tourist destination) and on-ground realities of resource extraction, indigenous land rights and
+ethno-nationalist politics. Such perspectives of the Northeastern region of India—as evinced
+in the work of scholars such as Sanjib Baruah, Bengt G. Karlsson, Dolly Kikon and
+others—offer insights into the modernisation of the region with literatures in English being
+one of the key manifestations of modernity in the Northeast. The questions that research in
+this area would hope to engage with are: 1) what is the impact of modernity—propagated
+through law, policies and politics—on the cultural production in the region? 2) what has
+changed, since British rule, to how the Northeast is viewed as a cultural category? 3) how is
+universality addressed in literatures and cultures from the Northeast India?
+RESEARCH SUPERVISOR
+Dr. Jobeth Ann Warjri
+Jobeth Ann Warjri holds a Ph.D. in English Literature from the Department of English,
+University of Hyderabad. Her doctoral thesis examined how cultural, linguistic and historical
+losses encourage kinship affiliations and belonging in the writings of Maya Angelou. Apart
+from literature, she is interested in how other cultural forms—music, performance,
+storytelling, art and films—communicate belonging through their appeal to intersectional
+racial, gendered and national identities in ways that are also universal.
+Pre-requisites
+A background in humanities and/or the social sciences and a research proposal under the
+preferred area of study.
+APPLY NOW
+Women and Narrative
+KNOW MORE
+Women and Narrative
+While Paul Ricoeur had famously declared that stories map the human experience of time,
+topics for research in this area will intend to show how women disrupt historical time and
+patriarchal narratives through their recourse to memory, affect and body-centred storytelling.
+Beginning with Hélѐne Cixous’ écriture feminine upto Andrea Long Chu’s reflections on
+feminist authority, research in this area would extend to cultural forms that are transgressive,
+cyclical and woman-centred in their approach to storytelling. Additionally, the research will
+also address the negotiations that women make with the historical processes that form the
+undercurrent to how their stories/narratives are heard and why. The questions that research in
+this area would hope to engage with are: 1) what are the ways in which womanist narratology
+complicate the idea of historical time and linearity? 2) is there even such thing as “female”
+authorship? 3) what is the politics behind womanist narrative production?
+RESEARCH SUPERVISOR
+Dr. Jobeth Ann Warjri
+Jobeth Ann Warjri holds a Ph.D. in English Literature from the Department of English,
+University of Hyderabad. Her doctoral thesis examined how cultural, linguistic and historical
+losses encourage kinship affiliations and belonging in the writings of Maya Angelou. Apart
+from literature, she is interested in how other cultural forms—music, performance,
+storytelling, art and films—communicate belonging through their appeal to intersectional
+racial, gendered and national identities in ways that are also universal.
+Pre-requisites
+A background in humanities and/or the social sciences and a research proposal under the
+preferred area of study.
+APPLY NOW
+African American Culture and Literature
+KNOW MORE
+African American Culture and Literature
+Drawing upon the epistemological, phenomenological and ontological approaches to the
+study of African American cultural production, this area of research intends to examine the
+interchanges between African American art forms such as music, fine arts and performance
+with literature. Taking after the critical insights of Henry Louis Gates, Jr., Houston A. Baker,
+bell hooks, Angela Y. Davis, Tricia Rose, Isabel Wilkerson, Molefi Kete Asante and Ralph
+Ellison, among others, research in this area will address the continued relevance of African
+American cultural production and literature within the current, global context. The questions
+that research in this area would hope to engage with are: 1) how do the specificities of race,
+class and (possibly) caste in African American cultural production intersect with global
+frameworks such as capitalism? 2) what are the ways in which African American cultural
+artefacts and intangible heritage influence global citizenship and identity? 3) can we conceive
+of a global connectedness and sense of solidarity among marginalised groups within an
+African American critical framework?
+RESEARCH SUPERVISOR
+Dr. Jobeth Ann Warjri
+Jobeth Ann Warjri holds a Ph.D. in English Literature from the Department of English,
+University of Hyderabad. Her doctoral thesis examined how cultural, linguistic and historical
+losses encourage kinship affiliations and belonging in the writings of Maya Angelou. Apart
+from literature, she is interested in how other cultural forms—music, performance,
+storytelling, art and films—communicate belonging through their appeal to intersectional
+racial, gendered and national identities in ways that are also universal.
+Pre-requisites
+A background in humanities and/or the social sciences and a research proposal under the
+preferred area of study.
+APPLY NOW
+SCHOOL OF  BUSINESS STUDIES
+Human Resources Management
+KNOW MORE
+Human Resources Management
+Areas/Domain of Research
+Research areas: Organizational Behaviour and Human Resource Management include: Green HRM, Employee Psychology,
+Technology and HRM (social media use in OB/HR), Occupational Stress, Employee Commitment,
+Neurodiversity at Work, Workplace Violence, Sustainable Workplaces, Diversity and Inclusion at Workplace.
+RESEARCH SUPERVISOR
+Dr. Anuj Verma
+Dr. Shakti Chaturvedi is an alumnus of the University of Delhi and an ardent academician with more
+than ten years of teaching experience in subjects of the HR domain in various institutions of repute.
+She has secured her MBA from Lal Bahadur Shastri Institute of Management and her Ph.D. from the
+prestigious Banaras Hindu University, BHU (An Institute of Eminence). She has qualified UGC NET
+JRF in Management; UGC NET twice in Management and UGC NET in PMIR/HR respectively. She was a full-time
+stipendiary research scholar of Dr. A.K. Srivastava, the well-known Distinguished Professor of Psychology
+at BHU, for her Doctorate thesis. After completing her Ph.D.,
+she worked at the University of Petroleum and Energy Studies, Dehradun.
+She has also worked as a Research Assistant at IIM Lucknow. At Bengaluru,
+she worked with Jain University and REVA Business School, REVA University.
+She has held the position of Research Vertical Head in REVA and was awarded REVA Best Researcher in 2021.
+She gave coaching to all the Ph.D. Scholars of REVA Business School on various Quantitative
+and Qualitative research methods. Two of her Ph.D. scholars have already been awarded a Doctorate under
+her guidance. To her credit, she has more than 30 publications indexed in quality journals.
+Reputed publishers publish her research articles like Sage, Taylor and Francis, and Inderscience.
+She also worked on a funded ICSSR Government of India project in 2014. She has served as a reviewer
+for various reputed journals, for instance, Global Business Review journal indexed in ABDC published
+by Sage, International Journal of Consumer Studies (ABDC-A), and International Journal of Innovation
+Science (Scopus, published by Emerald), FIIB Business Review (Scopus published by Sage).
+APPLY NOW
+Marketing Management
+KNOW MORE
+Marketing Management
+Areas/Domain of Research
+This area of research is focused on understanding purchase intentions,
+emotional drivers, and word-of-mouth behavior.
+Generative AI and Digital Transformation in Marketing:
+Exploration of Generative AI in reshaping marketing practices,
+particularly in CRM (Customer Relationship Management).
+Sustainable Marketing and Responsible Consumption:
+Research on sustainable tourism,
+aligning marketing strategies with environmental consciousness and social responsibility.
+RESEARCH SUPERVISOR
+Dr. Anuj Verma
+Dr. Anuj Verma is an accomplished academician and marketing professional with over 15 years of diversified experience spanning industry and academia. He has published over 20 research papers in reputed Scopus and ABDC-indexed journals on topics such as consumer behaviour, digital marketing, AI in CRM, and sustainable marketing. Dr. Verma has also authored a book, contributed case studies, and presented at leading conferences including IIM Indore, Kozhikode, and Nagpur. He has completed a CSR consultancy project for the GMR Group and received the Young Achiever’s Award in Management. His previous corporate roles at Mahindra Holidays, ITC, and Make My Trip lend practical depth to his academic work.
+Pre-requisites
+Demonstrated interest in consumer behavior, technology adoption,
+sustainable marketing, or digital transformation.
+Basic proficiency in qualitative and/or quantitative research methods.
+Working knowledge of any statistical tool like SPSS, R, Python, AMOS
+APPLY NOW
+#125, Bettenahalli, Kundana Hobli,  Chapparkallu Road, Bengaluru - 562110
+For all admission-related queries,
+Write to:    admission@vidyashilp.edu.in
+Or call the admissions team:    080 6963 0500
+Schools
+- School of Computational and    Data Sciences
+- School of Liberal Arts and    Design Studies
+- School of Business Studies
+- School of Legal Studies and   Governance
+Quick Links
+- About
+- Programs
+- Admission
+- Enquiry
+- Privacy & Policy
+- Media
+- Careers
+- Mandatory Documents
+- Sitemap
+- Contact Us
+© 2024 Vidyashilp.  Vidyashilp University is established under Karnataka Act No.20 of 2021
+APPLY NOW

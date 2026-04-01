@@ -1,0 +1,25 @@
+India Rising Event Gallery | Vidyashilp University
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW96NSW5"
+height="0" width="0" style="display:none;visibility:hidden">
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+WORKSHOPS
+VENUE
+GALLERY
+PREVIOUS EDITION
+India Rising 2024
+Home
+Agenda
+Workshops
+Venue
+Gallery
+Previous Edition
+India Rising 2024
+<section class="agenda-section" style="padding: 30px 20px;text-align: center;
+background-image: url(https://vidyashilpimages.com/zoho_back.png);">
+Gallery
+India Rising 2025
+India Rising 2024
+Copyright © 2025 VIDYASHILP UNIVERSITY
