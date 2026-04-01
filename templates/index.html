@@ -1,0 +1,1533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vidyashilp University – New Age University in Bangalore</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --vu-navy: #0d2d5c;
+    --vu-gold: #9b1c2e;
+    --vu-gold-light: #c0392b;
+    --vu-orange: #7b1225;
+    --vu-light: #f5f0f1;
+    --vu-white: #ffffff;
+    --vu-gray: #6b7280;
+    --vu-dark: #111827;
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-body: 'DM Sans', sans-serif;
+  }
+
+  body { font-family: var(--font-body); color: var(--vu-dark); background: var(--vu-white); overflow-x: hidden; }
+
+  /* ─── TICKER ─── */
+  .ticker-bar {
+    background: var(--vu-navy);
+    color: #fff;
+    font-size: 12.5px;
+    padding: 7px 0;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .ticker-inner {
+    display: inline-block;
+    animation: ticker 28s linear infinite;
+    padding-left: 100%;
+  }
+  .ticker-inner span { margin: 0 3rem; }
+  .ticker-inner a { color: var(--vu-gold-light); text-decoration: none; font-weight: 500; }
+  @keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-100%); } }
+
+  /* ─── NAV ─── */
+  nav {
+    background: var(--vu-white);
+    box-shadow: 0 1px 0 rgba(0,0,0,0.08);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  .nav-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    height: 72px;
+  }
+  .nav-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; flex-shrink: 0; }
+  .logo-emblem {
+    width: 48px; height: 48px;
+    background: var(--vu-navy);
+    border-radius: 4px;
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--font-display);
+    color: var(--vu-gold);
+    font-size: 20px; font-weight: 700;
+    letter-spacing: -1px;
+  }
+  .logo-text { line-height: 1.1; }
+  .logo-text .name { font-family: var(--font-display); font-size: 16px; font-weight: 700; color: var(--vu-navy); }
+  .logo-text .sub { font-size: 9px; font-weight: 500; color: var(--vu-gray); letter-spacing: 1.5px; text-transform: uppercase; }
+
+  .nav-links { display: flex; align-items: center; gap: 0; flex: 1; }
+  .nav-item { position: relative; }
+  .nav-item > a {
+    display: block;
+    padding: 0 1rem;
+    height: 72px;
+    line-height: 72px;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--vu-dark);
+    text-decoration: none;
+    white-space: nowrap;
+    transition: color 0.2s;
+  }
+  .nav-item:hover > a { color: var(--vu-navy); }
+  .nav-item > a::after {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 3px;
+    background: var(--vu-gold);
+    transform: scaleX(0);
+    transition: transform 0.2s;
+  }
+  .nav-item:hover > a::after { transform: scaleX(1); }
+
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: 72px; left: 0;
+    background: var(--vu-white);
+    border-top: 3px solid var(--vu-gold);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    min-width: 240px;
+    z-index: 999;
+    padding: 8px 0;
+  }
+  .nav-item:hover .dropdown { display: block; }
+  .dropdown a {
+    display: block;
+    padding: 9px 20px;
+    font-size: 13px;
+    color: var(--vu-dark);
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+  }
+  .dropdown a:hover { background: var(--vu-light); color: var(--vu-navy); }
+  .dropdown-heading {
+    padding: 8px 20px 4px;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--vu-gray);
+    border-top: 1px solid #f0e8ea;
+    margin-top: 4px;
+  }
+
+  .nav-cta {
+    margin-left: auto;
+    display: flex; align-items: center; gap: 10px;
+    flex-shrink: 0;
+  }
+  .btn-apply {
+    background: var(--vu-gold);
+    color: #fff;
+    padding: 9px 20px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 0.3px;
+    transition: background 0.2s;
+  }
+  .btn-apply:hover { background: var(--vu-orange); }
+  .btn-chat {
+    background: var(--vu-navy);
+    color: #fff;
+    padding: 9px 16px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: 600;
+    text-decoration: none;
+    letter-spacing: 0.3px;
+    transition: background 0.2s;
+    cursor: pointer;
+    border: none;
+    display: flex; align-items: center; gap: 6px;
+  }
+  .btn-chat:hover { background: #1a2f6e; }
+
+  /* ─── HERO ─── */
+  .hero {
+    position: relative;
+    height: 620px;
+    overflow: hidden;
+    background: var(--vu-navy);
+  }
+  .hero-bg {
+    position: absolute; inset: 0;
+    background:
+      linear-gradient(135deg, rgba(13,45,92,0.88) 0%, rgba(13,45,92,0.65) 50%, rgba(13,45,92,0.45) 100%),
+      url('data:image/jpeg;base64,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') center/cover no-repeat;
+    animation: heroZoom 14s ease-in-out infinite alternate;
+  }
+  @keyframes heroZoom { from { transform: scale(1); } to { transform: scale(1.06); } }
+
+  .hero-content {
+    position: relative; z-index: 2;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 700px;
+  }
+  .hero-badge {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: rgba(155,28,46,0.15);
+    border: 1px solid rgba(155,28,46,0.4);
+    border-radius: 2px;
+    padding: 5px 14px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--vu-gold-light);
+    margin-bottom: 1.5rem;
+    width: fit-content;
+  }
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2.4rem, 5vw, 3.6rem);
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+  }
+  .hero h1 em { color: var(--vu-gold-light); font-style: normal; }
+  .hero p {
+    font-size: 17px;
+    color: rgba(255,255,255,0.82);
+    line-height: 1.7;
+    max-width: 520px;
+    margin-bottom: 2rem;
+  }
+  .hero-actions { display: flex; gap: 12px; flex-wrap: wrap; }
+  .btn-hero-primary {
+    background: var(--vu-gold);
+    color: #fff;
+    padding: 13px 28px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s, transform 0.15s;
+  }
+  .btn-hero-primary:hover { background: var(--vu-orange); transform: translateY(-1px); }
+  .btn-hero-secondary {
+    background: transparent;
+    color: #fff;
+    border: 1.5px solid rgba(255,255,255,0.5);
+    padding: 13px 28px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .btn-hero-secondary:hover { border-color: #fff; background: rgba(255,255,255,0.08); }
+
+  .hero-stats {
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    background: rgba(13,45,92,0.92);
+    backdrop-filter: blur(8px);
+    display: flex;
+  }
+  .stat-item {
+    flex: 1;
+    padding: 1.2rem 2rem;
+    border-right: 1px solid rgba(255,255,255,0.1);
+    text-align: center;
+  }
+  .stat-item:last-child { border-right: none; }
+  .stat-number { font-family: var(--font-display); font-size: 2rem; font-weight: 700; color: var(--vu-gold-light); }
+  .stat-label { font-size: 11px; font-weight: 500; color: rgba(255,255,255,0.65); letter-spacing: 0.8px; text-transform: uppercase; margin-top: 2px; }
+
+  /* ─── ADMISSION BANNER ─── */
+  .admission-banner {
+    background: var(--vu-gold);
+    padding: 14px 2rem;
+    text-align: center;
+    display: flex; align-items: center; justify-content: center; gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .admission-banner span { font-size: 14px; font-weight: 600; color: #fff; }
+  .admission-banner a {
+    background: #fff;
+    color: var(--vu-gold);
+    padding: 7px 20px;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  .admission-banner a:hover { background: var(--vu-light); }
+
+  /* ─── SCHOOLS SECTION ─── */
+  .section { max-width: 1280px; margin: 0 auto; padding: 4.5rem 2rem; }
+  .section-label {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: var(--vu-gold);
+    margin-bottom: 0.5rem;
+  }
+  .section-heading {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem, 3vw, 2.6rem);
+    font-weight: 700;
+    color: var(--vu-navy);
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+  }
+  .section-sub {
+    font-size: 16px;
+    color: var(--vu-gray);
+    max-width: 560px;
+    line-height: 1.65;
+    margin-bottom: 2.5rem;
+  }
+
+  .schools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.25rem; }
+  .school-card {
+    border: 1px solid #e8e4dc;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+  }
+  .school-card:hover { transform: translateY(-4px); box-shadow: 0 16px 40px rgba(13,45,92,0.1); }
+  .school-card-img {
+    height: 170px;
+    object-fit: cover;
+    width: 100%;
+    display: block;
+  }
+  .school-card-img-placeholder {
+    height: 170px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.5rem;
+  }
+  .school-card-body { padding: 1.1rem 1.2rem; }
+  .school-card-body h3 { font-size: 14.5px; font-weight: 600; color: var(--vu-navy); margin-bottom: 4px; }
+  .school-card-body p { font-size: 12.5px; color: var(--vu-gray); line-height: 1.5; }
+  .school-tag {
+    display: inline-block;
+    margin-top: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    text-transform: uppercase;
+    color: var(--vu-gold);
+  }
+
+  /* school color accents */
+  .sc-eng { background: linear-gradient(135deg, #0d2d5c, #1a2f6e); }
+  .sc-arts { background: linear-gradient(135deg, #2d5c1a, #3d7a23); }
+  .sc-biz { background: linear-gradient(135deg, #5c1a0d, #7a2313); }
+  .sc-law { background: linear-gradient(135deg, #3d1a5c, #5a2380); }
+  .sc-des { background: linear-gradient(135deg, #5c4a0d, #7a6213); }
+  .sc-icon { font-size: 3rem; }
+
+  /* ─── ABOUT ─── */
+  .about-section { background: var(--vu-light); }
+  .about-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 4.5rem 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5rem;
+    align-items: center;
+  }
+  .about-img-wrap { position: relative; }
+  .about-img {
+    width: 100%;
+    border-radius: 6px;
+    object-fit: cover;
+    height: 440px;
+    display: block;
+  }
+  .about-img-placeholder {
+    width: 100%;
+    height: 440px;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #0d2d5c, #1a2f6e);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255,255,255,0.7);
+    gap: 1rem;
+  }
+  .about-img-placeholder .big-icon { font-size: 4rem; }
+  .about-img-placeholder p { font-size: 14px; text-align: center; max-width: 200px; }
+  .about-accent {
+    position: absolute;
+    bottom: -20px; right: -20px;
+    background: var(--vu-gold);
+    border-radius: 4px;
+    padding: 1.5rem;
+    color: #fff;
+    font-family: var(--font-display);
+  }
+  .about-accent .number { font-size: 2.5rem; font-weight: 700; line-height: 1; }
+  .about-accent .label { font-size: 12px; opacity: 0.85; }
+  .about-text .section-label { display: block; }
+  .about-text ul { list-style: none; margin-top: 1.5rem; }
+  .about-text ul li {
+    padding: 8px 0;
+    font-size: 14.5px;
+    color: var(--vu-dark);
+    display: flex; align-items: center; gap: 10px;
+    border-bottom: 1px solid #e8e4dc;
+  }
+  .about-text ul li:last-child { border-bottom: none; }
+  .about-text ul li::before { content: '▸'; color: var(--vu-gold); font-size: 12px; }
+  .btn-outline {
+    display: inline-flex;
+    align-items: center; gap: 8px;
+    margin-top: 1.5rem;
+    border: 1.5px solid var(--vu-navy);
+    color: var(--vu-navy);
+    padding: 10px 22px;
+    border-radius: 4px;
+    font-size: 13.5px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background 0.2s, color 0.2s;
+  }
+  .btn-outline:hover { background: var(--vu-navy); color: #fff; }
+
+  /* ─── PROGRAMS ─── */
+  .programs-bg { background: var(--vu-navy); padding: 4.5rem 0; }
+  .programs-bg .section-label { color: var(--vu-gold-light); }
+  .programs-bg .section-heading { color: #fff; }
+  .programs-bg .section-sub { color: rgba(255,255,255,0.65); }
+  .programs-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.25rem; }
+  .prog-card {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 6px;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: background 0.2s, border-color 0.2s;
+    text-decoration: none;
+  }
+  .prog-card:hover { background: rgba(255,255,255,0.1); border-color: rgba(201,147,26,0.5); }
+  .prog-card-level {
+    font-size: 10.5px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--vu-gold-light);
+    margin-bottom: 8px;
+  }
+  .prog-card h3 { font-size: 15px; font-weight: 600; color: #fff; margin-bottom: 6px; line-height: 1.4; }
+  .prog-card p { font-size: 12.5px; color: rgba(255,255,255,0.55); line-height: 1.55; }
+  .prog-card-footer {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .prog-card-footer span { font-size: 11.5px; color: rgba(255,255,255,0.45); }
+  .prog-card-footer .arrow { color: var(--vu-gold-light); font-size: 16px; }
+
+  /* ─── WHY VU ─── */
+  .why-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; }
+  .why-item { text-align: center; }
+  .why-icon {
+    width: 64px; height: 64px;
+    background: var(--vu-light);
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 1.6rem;
+    border: 2px solid #e8e4dc;
+  }
+  .why-item h3 { font-size: 15px; font-weight: 600; color: var(--vu-navy); margin-bottom: 6px; }
+  .why-item p { font-size: 13px; color: var(--vu-gray); line-height: 1.6; }
+
+  /* ─── TESTIMONIALS ─── */
+  .testimonials-bg { background: var(--vu-light); padding: 4.5rem 0; }
+  .testimonials-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+  .testi-card {
+    background: #fff;
+    border: 1px solid #e8e4dc;
+    border-radius: 8px;
+    padding: 1.75rem;
+    position: relative;
+  }
+  .testi-card::before {
+    content: '"';
+    position: absolute;
+    top: 12px; left: 20px;
+    font-family: var(--font-display);
+    font-size: 5rem;
+    color: var(--vu-gold);
+    opacity: 0.15;
+    line-height: 1;
+  }
+  .testi-card p { font-size: 14px; color: var(--vu-dark); line-height: 1.7; margin-bottom: 1.25rem; font-style: italic; }
+  .testi-author { display: flex; align-items: center; gap: 10px; }
+  .testi-avatar {
+    width: 40px; height: 40px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+    flex-shrink: 0;
+  }
+  .testi-name { font-size: 13.5px; font-weight: 600; color: var(--vu-navy); }
+  .testi-role { font-size: 11.5px; color: var(--vu-gray); }
+
+  /* ─── NEWS ─── */
+  .news-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
+  .news-card {
+    border: 1px solid #e8e4dc;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+  }
+  .news-card:hover { transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0,0,0,0.08); }
+  .news-img {
+    height: 160px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2rem;
+  }
+  .news-body { padding: 1.1rem; }
+  .news-tag {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--vu-gold);
+    margin-bottom: 6px;
+  }
+  .news-body h3 { font-size: 14.5px; font-weight: 600; color: var(--vu-navy); line-height: 1.45; margin-bottom: 6px; }
+  .news-body p { font-size: 12.5px; color: var(--vu-gray); line-height: 1.55; }
+  .news-date { font-size: 11px; color: var(--vu-gray); margin-top: 8px; }
+
+  /* ─── FOOTER ─── */
+  footer { background: var(--vu-dark); color: rgba(255,255,255,0.7); }
+  .footer-top {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 3.5rem 2rem 2.5rem;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 3rem;
+  }
+  .footer-brand .logo-text .name { color: #fff; font-size: 18px; }
+  .footer-brand .logo-text .sub { color: rgba(255,255,255,0.4); }
+  .footer-brand p { font-size: 13px; line-height: 1.7; margin-top: 1rem; max-width: 280px; }
+  .footer-col h4 { font-size: 12px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: rgba(255,255,255,0.9); margin-bottom: 1rem; }
+  .footer-col ul { list-style: none; }
+  .footer-col ul li { margin-bottom: 7px; }
+  .footer-col ul li a { font-size: 13px; color: rgba(255,255,255,0.55); text-decoration: none; transition: color 0.15s; }
+  .footer-col ul li a:hover { color: var(--vu-gold-light); }
+  .footer-contact { font-size: 13px; line-height: 1.8; }
+  .footer-contact strong { color: rgba(255,255,255,0.9); }
+  .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.08);
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .footer-bottom a { color: rgba(255,255,255,0.45); text-decoration: none; }
+  .footer-bottom a:hover { color: var(--vu-gold-light); }
+
+  /* ─── CHATBOT ─── */
+  #chatbot-launcher {
+    position: fixed;
+    bottom: 28px; right: 28px;
+    width: 58px; height: 58px;
+    background: var(--vu-navy);
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 6px 24px rgba(13,45,92,0.4);
+    z-index: 9999;
+    transition: background 0.2s, transform 0.2s;
+  }
+  #chatbot-launcher:hover { background: #1a2f6e; transform: scale(1.06); }
+  #chatbot-launcher svg { width: 26px; height: 26px; fill: #fff; }
+  .chat-badge {
+    position: absolute; top: 6px; right: 6px;
+    width: 10px; height: 10px;
+    background: var(--vu-gold);
+    border-radius: 50%;
+    border: 2px solid var(--vu-navy);
+  }
+
+  #chatbot-window {
+    position: fixed;
+    bottom: 100px; right: 28px;
+    width: 380px;
+    max-height: 580px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 24px 72px rgba(0,0,0,0.2);
+    z-index: 9998;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transform: scale(0.9) translateY(20px);
+    opacity: 0;
+    pointer-events: none;
+    transition: transform 0.25s ease, opacity 0.25s ease;
+  }
+  #chatbot-window.open {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+    pointer-events: all;
+  }
+  .chat-header {
+    background: var(--vu-navy);
+    padding: 1rem 1.25rem;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .chat-avatar {
+    width: 36px; height: 36px;
+    background: var(--vu-gold);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px; color: #fff;
+    flex-shrink: 0;
+  }
+  .chat-header-info .name { font-size: 14px; font-weight: 600; color: #fff; }
+  .chat-header-info .status { font-size: 11px; color: rgba(255,255,255,0.6); }
+  .chat-close {
+    margin-left: auto;
+    background: none; border: none; cursor: pointer;
+    color: rgba(255,255,255,0.6);
+    font-size: 20px; padding: 0 4px;
+    transition: color 0.15s;
+  }
+  .chat-close:hover { color: #fff; }
+
+  .chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    background: #f9f8f6;
+  }
+  .chat-messages::-webkit-scrollbar { width: 4px; }
+  .chat-messages::-webkit-scrollbar-track { background: transparent; }
+  .chat-messages::-webkit-scrollbar-thumb { background: #d0ccc4; border-radius: 4px; }
+
+  .msg { max-width: 78%; display: flex; flex-direction: column; gap: 2px; }
+  .msg.bot { align-self: flex-start; }
+  .msg.user { align-self: flex-end; align-items: flex-end; }
+  .msg-bubble {
+    padding: 9px 13px;
+    border-radius: 14px;
+    font-size: 13.5px;
+    line-height: 1.55;
+  }
+  .msg.bot .msg-bubble { background: #fff; border: 1px solid #e8e4dc; border-bottom-left-radius: 4px; color: var(--vu-dark); }
+  .msg.user .msg-bubble { background: var(--vu-navy); color: #fff; border-bottom-right-radius: 4px; }
+  .msg-time { font-size: 10px; color: var(--vu-gray); padding: 0 4px; }
+
+  .chat-quick-btns {
+    padding: 8px 1.25rem;
+    display: flex; flex-wrap: wrap; gap: 6px;
+    background: #f9f8f6;
+    border-top: 1px solid #e8e4dc;
+  }
+  .quick-btn {
+    padding: 5px 11px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    font-size: 11.5px;
+    cursor: pointer;
+    color: var(--vu-navy);
+    font-weight: 500;
+    transition: background 0.15s, border-color 0.15s;
+    white-space: nowrap;
+  }
+  .quick-btn:hover { background: var(--vu-light); border-color: var(--vu-gold); }
+
+  .chat-input-row {
+    padding: 10px 12px;
+    display: flex; gap: 8px;
+    border-top: 1px solid #e8e4dc;
+    background: #fff;
+  }
+  .chat-input {
+    flex: 1;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 8px 14px;
+    font-size: 13.5px;
+    font-family: var(--font-body);
+    outline: none;
+    resize: none;
+    height: 38px;
+    background: #f9f8f6;
+    transition: border-color 0.15s;
+  }
+  .chat-input:focus { border-color: var(--vu-navy); background: #fff; }
+  .chat-send {
+    width: 38px; height: 38px;
+    background: var(--vu-gold);
+    border: none; border-radius: 50%;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.15s, transform 0.15s;
+  }
+  .chat-send:hover { background: var(--vu-orange); transform: scale(1.05); }
+  .chat-send svg { width: 16px; height: 16px; fill: #fff; }
+
+  .chat-mic {
+    width: 38px; height: 38px;
+    background: #f0f0f0;
+    border: 1.5px solid #ddd;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.15s, border-color 0.15s, transform 0.15s;
+  }
+  .chat-mic:hover { background: #e8e4f0; border-color: var(--vu-navy); }
+  .chat-mic svg { width: 16px; height: 16px; fill: var(--vu-navy); }
+  .chat-mic.recording {
+    background: #fde8ea;
+    border-color: #9b1c2e;
+    animation: pulse-mic 1s infinite;
+  }
+  .chat-mic.recording svg { fill: #9b1c2e; }
+  @keyframes pulse-mic {
+    0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(155,28,46,0.4); }
+    50% { transform: scale(1.08); box-shadow: 0 0 0 6px rgba(155,28,46,0); }
+  }
+
+  .chat-tts-btn {
+    display: inline-flex; align-items: center; gap: 4px;
+    margin-top: 5px;
+    background: none; border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 3px 9px;
+    font-size: 11px; color: var(--vu-gray);
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+    align-self: flex-start;
+  }
+  .chat-tts-btn:hover { background: var(--vu-light); color: var(--vu-navy); border-color: var(--vu-navy); }
+  .chat-tts-btn.speaking { color: #9b1c2e; border-color: #9b1c2e; background: #fde8ea; }
+  .chat-tts-btn svg { width: 12px; height: 12px; fill: currentColor; }
+
+  /* typing indicator */
+  .typing-bubble { display: flex; gap: 4px; align-items: center; padding: 11px 14px; }
+  .typing-bubble span {
+    width: 7px; height: 7px;
+    background: var(--vu-gray);
+    border-radius: 50%;
+    animation: bounce 1.2s infinite;
+  }
+  .typing-bubble span:nth-child(2) { animation-delay: 0.2s; }
+  .typing-bubble span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes bounce { 0%,60%,100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
+
+  /* ─── RESPONSIVE ─── */
+  @media (max-width: 900px) {
+    .nav-links { display: none; }
+    .about-inner { grid-template-columns: 1fr; gap: 2rem; }
+    .footer-top { grid-template-columns: 1fr 1fr; }
+    .hero-stats { display: none; }
+  }
+  @media (max-width: 600px) {
+    .footer-top { grid-template-columns: 1fr; }
+    #chatbot-window { width: calc(100vw - 32px); right: 16px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-bar">
+  <div class="ticker-inner">
+    <span>🎓 Admissions Open 2026–27 &mdash; <a href="#">Apply Now</a></span>
+    <span>🏆 Vidyashilp University ranked among Top New-Age Universities in India</span>
+    <span>📅 Ph.D. Program applications are now open &mdash; <a href="#">Learn More</a></span>
+    <span>📞 For Admissions: 080 6963 0500</span>
+    <span>🌍 Global Initiatives: International collaboration with 30+ universities</span>
+  </div>
+</div>
+
+<nav>
+  <div class="nav-inner">
+    <a href="#" class="nav-logo">
+      <div class="logo-emblem">VU</div>
+      <div class="logo-text">
+        <div class="name">Vidyashilp University</div>
+        <div class="sub">Bangalore, India</div>
+      </div>
+    </a>
+
+    <div class="nav-links">
+      <div class="nav-item">
+        <a href="#">About ▾</a>
+        <div class="dropdown">
+          <a href="#">About Vidyashilp</a>
+          <a href="#">Vision & Mission</a>
+          <a href="#">Leadership</a>
+          <a href="#">Advisory Board</a>
+          <a href="#">Faculty</a>
+          <a href="#">Campus Life</a>
+          <a href="#">Global Initiatives</a>
+        </div>
+      </div>
+      <div class="nav-item">
+        <a href="#">Academics ▾</a>
+        <div class="dropdown">
+          <div class="dropdown-heading">Undergraduate</div>
+          <a href="#">B.Tech. (Hons.) – Data Science</a>
+          <a href="#">B.Tech. (Hons.) – AI & Machine Learning</a>
+          <a href="#">B.A. (Hons.) Psychology / Economics</a>
+          <a href="#">B.Des.</a>
+          <a href="#">B.M.S. (Hons.) Digital Business</a>
+          <a href="#">B.A. LL.B. (Hons.)</a>
+          <div class="dropdown-heading">Postgraduate</div>
+          <a href="#">Ph.D. Program</a>
+        </div>
+      </div>
+      <div class="nav-item">
+        <a href="#">Schools ▾</a>
+        <div class="dropdown">
+          <a href="#">School of Engineering & Technology</a>
+          <a href="#">School of Liberal Arts & Sciences</a>
+          <a href="#">School of Business & Entrepreneurship</a>
+          <a href="#">School of Law</a>
+          <a href="#">School of Design</a>
+        </div>
+      </div>
+      <div class="nav-item"><a href="#">Admissions</a></div>
+      <div class="nav-item"><a href="#">Research</a></div>
+      <div class="nav-item"><a href="#">Campus</a></div>
+    </div>
+
+    <div class="nav-cta">
+      <button class="btn-chat" onclick="toggleChat()">
+        <svg viewBox="0 0 24 24" style="width:16px;height:16px;fill:#fff"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"/></svg>
+        AI Assistant
+      </button>
+      <a href="#" class="btn-apply">Apply Now</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-bg"></div>
+  <div class="hero-content">
+    <div class="hero-badge">✦ Admissions Open 2026–27</div>
+    <h1>Shaping India's Next Generation of <em>Innovators & Leaders</em></h1>
+    <p>A new-age university in Bangalore built for the real world — where academic rigour meets experiential learning, entrepreneurship, and global perspectives.</p>
+    <div class="hero-actions">
+      <a href="#" class="btn-hero-primary">Apply for UG Programs</a>
+      <a href="#" class="btn-hero-secondary">Explore Schools →</a>
+    </div>
+  </div>
+  <div class="hero-stats">
+    <div class="stat-item">
+      <div class="stat-number">5</div>
+      <div class="stat-label">Schools</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">9+</div>
+      <div class="stat-label">UG Programs</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">30+</div>
+      <div class="stat-label">Global Partners</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">100%</div>
+      <div class="stat-label">Placement Support</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-number">15</div>
+      <div class="stat-label">Acre Campus</div>
+    </div>
+  </div>
+</section>
+
+<div class="admission-banner">
+  <span>🎓 Admissions 2026–27 are now open — Limited seats available in all programs.</span>
+  <a href="#">Apply Online →</a>
+  <a href="#" style="background:var(--vu-navy);color:#fff;">Download Brochure</a>
+</div>
+
+<div class="section">
+  <div class="section-label">Our Schools</div>
+  <h2 class="section-heading">Five Schools. One Vision.</h2>
+  <p class="section-sub">Each school is designed around a commitment to rigorous academics, industry integration, and developing graduates who are ready to lead and innovate.</p>
+  <div class="schools-grid">
+    <a href="#" class="school-card">
+      <div class="school-card-img-placeholder sc-eng"><span class="sc-icon">⚙️</span></div>
+      <div class="school-card-body">
+        <h3>School of Engineering & Technology</h3>
+        <p>B.Tech in Data Science and AI/ML — designed for the future of tech.</p>
+        <span class="school-tag">B.Tech. Programs →</span>
+      </div>
+    </a>
+    <a href="#" class="school-card">
+      <div class="school-card-img-placeholder sc-arts"><span class="sc-icon">🎭</span></div>
+      <div class="school-card-body">
+        <h3>School of Liberal Arts & Sciences</h3>
+        <p>B.A. (Hons.) in Psychology and Economics — a home for critical thinkers.</p>
+        <span class="school-tag">B.A. Programs →</span>
+      </div>
+    </a>
+    <a href="#" class="school-card">
+      <div class="school-card-img-placeholder sc-biz"><span class="sc-icon">📈</span></div>
+      <div class="school-card-body">
+        <h3>School of Business & Entrepreneurship</h3>
+        <p>B.M.S. Digital Business — building entrepreneurs of tomorrow.</p>
+        <span class="school-tag">B.M.S. Programs →</span>
+      </div>
+    </a>
+    <a href="#" class="school-card">
+      <div class="school-card-img-placeholder sc-law"><span class="sc-icon">⚖️</span></div>
+      <div class="school-card-body">
+        <h3>School of Law</h3>
+        <p>B.A., LL.B. and B.M.S., LL.B. — law education with a modern edge.</p>
+        <span class="school-tag">LL.B. Programs →</span>
+      </div>
+    </a>
+    <a href="#" class="school-card">
+      <div class="school-card-img-placeholder sc-des"><span class="sc-icon">🎨</span></div>
+      <div class="school-card-body">
+        <h3>School of Design</h3>
+        <p>B.Des. — creativity, craft, and real-world design thinking.</p>
+        <span class="school-tag">B.Des. Program →</span>
+      </div>
+    </a>
+  </div>
+</div>
+
+<div class="about-section">
+  <div class="about-inner">
+    <div class="about-img-wrap">
+      <div class="about-img-placeholder">
+        <div class="big-icon">🏛️</div>
+        <p>Vidyashilp University — Bangalore's new-age campus</p>
+      </div>
+      <div class="about-accent">
+        <div class="number">2019</div>
+        <div class="label">Established</div>
+      </div>
+    </div>
+    <div class="about-text">
+      <span class="section-label">About Us</span>
+      <h2 class="section-heading">A University Built for the Real World</h2>
+      <p class="section-sub">Vidyashilp University, located in Bengaluru, is a private university established under the Karnataka Private Universities Act, designed to educate the next generation of leaders, innovators, and change-makers.</p>
+      <ul>
+        <li>Industry-integrated curriculum developed with global partners</li>
+        <li>World-class faculty with deep research and industry expertise</li>
+        <li>State-of-the-art 15-acre campus in north Bangalore</li>
+        <li>Strong emphasis on entrepreneurship and innovation</li>
+        <li>Ph.D. and research programs in cutting-edge fields</li>
+        <li>Dedicated placement and career support cell</li>
+      </ul>
+      <a href="#" class="btn-outline">Learn More About VU →</a>
+    </div>
+  </div>
+</div>
+
+<div class="programs-bg">
+  <div class="section" style="padding-top:0;padding-bottom:0;">
+    <div class="section-label">Academic Programs</div>
+    <h2 class="section-heading">Programs Designed for Impact</h2>
+    <p class="section-sub">All our undergraduate programs are honours-level, research-integrated, and built in partnership with industry leaders.</p>
+    <div class="programs-grid">
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Undergraduate · 4 Years</div>
+        <h3>B.Tech. (Hons.) – Computer Science & Engineering (Data Science)</h3>
+        <p>Master Big Data, Cloud Computing, NLP, ML, and full-stack development.</p>
+        <div class="prog-card-footer"><span>School of Engineering</span><span class="arrow">→</span></div>
+      </a>
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Undergraduate · 4 Years</div>
+        <h3>B.Tech. (Hons.) – CS Engineering (AI & Machine Learning)</h3>
+        <p>Specialize in deep learning, neural networks, robotics, and intelligent systems.</p>
+        <div class="prog-card-footer"><span>School of Engineering</span><span class="arrow">→</span></div>
+      </a>
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Undergraduate · 3 Years</div>
+        <h3>B.A. (Hons.) Psychology / Economics</h3>
+        <p>A rigorous liberal arts program developing critical thinkers and researchers.</p>
+        <div class="prog-card-footer"><span>School of Liberal Arts</span><span class="arrow">→</span></div>
+      </a>
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Undergraduate · 3 Years</div>
+        <h3>B.M.S. (Hons.) Digital Business</h3>
+        <p>Business management with a digital-first, entrepreneurship-driven curriculum.</p>
+        <div class="prog-card-footer"><span>School of Business</span><span class="arrow">→</span></div>
+      </a>
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Integrated · 5 Years</div>
+        <h3>B.A., LL.B. (Hons.) / B.M.S., LL.B. (Hons.)</h3>
+        <p>Dual-degree law programs equipping graduates for modern legal challenges.</p>
+        <div class="prog-card-footer"><span>School of Law</span><span class="arrow">→</span></div>
+      </a>
+      <a href="#" class="prog-card">
+        <div class="prog-card-level">Undergraduate · 4 Years</div>
+        <h3>B.Des. – Bachelor of Design</h3>
+        <p>Design education that bridges creativity, technology, and human experience.</p>
+        <div class="prog-card-footer"><span>School of Design</span><span class="arrow">→</span></div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-label">Why Vidyashilp</div>
+  <h2 class="section-heading">The VU Difference</h2>
+  <p class="section-sub">We combine the best of global higher education with India's unique intellectual tradition to create something truly distinctive.</p>
+  <div class="why-grid">
+    <div class="why-item">
+      <div class="why-icon">🔬</div>
+      <h3>Research-Led Teaching</h3>
+      <p>Every program is grounded in active research and real-world problem solving.</p>
+    </div>
+    <div class="why-item">
+      <div class="why-icon">🌏</div>
+      <h3>Global Exposure</h3>
+      <p>Exchange programs, international faculty, and global industry mentors.</p>
+    </div>
+    <div class="why-item">
+      <div class="why-icon">🚀</div>
+      <h3>Entrepreneurship First</h3>
+      <p>Dedicated incubation support for student-led startups and ventures.</p>
+    </div>
+    <div class="why-item">
+      <div class="why-icon">🤝</div>
+      <h3>Industry Integration</h3>
+      <p>Live projects, internships, and mentorship from top global companies.</p>
+    </div>
+    <div class="why-item">
+      <div class="why-icon">🎯</div>
+      <h3>Placement Support</h3>
+      <p>Dedicated career services connecting students with leading recruiters.</p>
+    </div>
+  </div>
+</div>
+
+<div class="testimonials-bg">
+  <div class="section" style="padding-top:0;padding-bottom:0;">
+    <div class="section-label">Student Voices</div>
+    <h2 class="section-heading">What Our Students Say</h2>
+    <p class="section-sub">Hear directly from the VU community about their experience at the university.</p>
+    <div class="testimonials-grid">
+      <div class="testi-card">
+        <p>The B.Tech AI/ML program at VU has been transformational. The curriculum is cutting-edge, the faculty are practitioners, and the industry exposure is unmatched anywhere else in Bangalore.</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#0d2d5c;">AR</div>
+          <div>
+            <div class="testi-name">Arjun Rao</div>
+            <div class="testi-role">B.Tech. AI/ML, 2025 Batch</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <p>Choosing VU for B.A. Economics was the best decision. The small cohort size means personalized attention from world-class faculty. I've published research in my second year — unheard of elsewhere!</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#3d7a23;">PS</div>
+          <div>
+            <div class="testi-name">Priya Sharma</div>
+            <div class="testi-role">B.A. (Hons.) Economics, 2024 Batch</div>
+          </div>
+        </div>
+      </div>
+      <div class="testi-card">
+        <p>The School of Law at VU offers a truly modern legal education. Moot courts, live case studies, legal clinics — you graduate ready to practice, not just to pass the bar.</p>
+        <div class="testi-author">
+          <div class="testi-avatar" style="background:#5a2380;">KM</div>
+          <div>
+            <div class="testi-name">Kavya Menon</div>
+            <div class="testi-role">B.A. LL.B. (Hons.), 2025 Batch</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-label">News & Events</div>
+  <h2 class="section-heading">Latest from VU</h2>
+  <p class="section-sub">Stay updated on research, achievements, events, and announcements from our vibrant campus.</p>
+  <div class="news-grid">
+    <div class="news-card">
+      <div class="news-img sc-eng"><span style="font-size:2.5rem;">🤖</span></div>
+      <div class="news-body">
+        <div class="news-tag">Research</div>
+        <h3>VU Students Win National AI Hackathon with Healthcare Diagnostic Model</h3>
+        <p>A team from the School of Engineering took first place at the All-India AI for Good challenge, developing a model for early disease detection.</p>
+        <div class="news-date">March 15, 2026</div>
+      </div>
+    </div>
+    <div class="news-card">
+      <div class="news-img sc-biz"><span style="font-size:2.5rem;">🌍</span></div>
+      <div class="news-body">
+        <div class="news-tag">Admissions</div>
+        <h3>Vidyashilp University Opens Applications for 2026–27 Academic Year</h3>
+        <p>Admissions are now open for all UG and Ph.D. programs. Limited merit scholarships available for top applicants.</p>
+        <div class="news-date">February 28, 2026</div>
+      </div>
+    </div>
+    <div class="news-card">
+      <div class="news-img sc-law"><span style="font-size:2.5rem;">⚖️</span></div>
+      <div class="news-body">
+        <div class="news-tag">Event</div>
+        <h3>Annual Moot Court Competition Draws Participants from 25 Law Schools</h3>
+        <p>The VU School of Law hosted its flagship moot court event, with participants from institutions across India competing before a panel of Supreme Court advocates.</p>
+        <div class="news-date">January 20, 2026</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-top">
+    <div class="footer-brand">
+      <div class="nav-logo" style="margin-bottom:1rem;">
+        <div class="logo-emblem">VU</div>
+        <div class="logo-text">
+          <div class="name" style="color:#fff;font-size:16px;">Vidyashilp University</div>
+          <div class="sub" style="color:rgba(255,255,255,0.4);">Bangalore, India</div>
+        </div>
+      </div>
+      <p>A new-age university in Bengaluru committed to shaping India's next generation of innovators, entrepreneurs, and ethical leaders.</p>
+      <div style="margin-top:1.25rem;display:flex;gap:10px;">
+        <a href="#" style="color:rgba(255,255,255,0.5);font-size:14px;text-decoration:none;" title="Facebook">FB</a>
+        <a href="#" style="color:rgba(255,255,255,0.5);font-size:14px;text-decoration:none;" title="Instagram">IG</a>
+        <a href="#" style="color:rgba(255,255,255,0.5);font-size:14px;text-decoration:none;" title="LinkedIn">LI</a>
+        <a href="#" style="color:rgba(255,255,255,0.5);font-size:14px;text-decoration:none;" title="Twitter">TW</a>
+        <a href="#" style="color:rgba(255,255,255,0.5);font-size:14px;text-decoration:none;" title="YouTube">YT</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>Academics</h4>
+      <ul>
+        <li><a href="#">B.Tech. Data Science</a></li>
+        <li><a href="#">B.Tech. AI & ML</a></li>
+        <li><a href="#">B.A. (Hons.)</a></li>
+        <li><a href="#">B.M.S. (Hons.)</a></li>
+        <li><a href="#">B.Des.</a></li>
+        <li><a href="#">B.A. LL.B.</a></li>
+        <li><a href="#">Ph.D. Program</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="#">About VU</a></li>
+        <li><a href="#">Faculty</a></li>
+        <li><a href="#">Admissions</a></li>
+        <li><a href="#">Scholarships</a></li>
+        <li><a href="#">Campus Life</a></li>
+        <li><a href="#">Research</a></li>
+        <li><a href="#">Careers at VU</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Contact</h4>
+      <div class="footer-contact">
+        <strong>Vidyashilp University</strong><br>
+        Yelahanka, Bengaluru<br>
+        Karnataka – 560 064<br><br>
+        <strong>Admissions:</strong><br>
+        080 6963 0500<br><br>
+        <strong>Email:</strong><br>
+        <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c0a1a4ada9b3b3a9afaeb380b6a9a4b9a1b3a8a9acb0eea5a4b5eea9ae">[email&#160;protected]</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 Vidyashilp University. All rights reserved.</span>
+    <div style="display:flex;gap:1.5rem;">
+      <a href="#">Privacy Policy</a>
+      <a href="#">Terms of Use</a>
+      <a href="#">Disclosures</a>
+      <a href="#">Grievances</a>
+    </div>
+  </div>
+</footer>
+
+<button id="chatbot-launcher" onclick="toggleChat()" title="Chat with VU Assistant">
+  <div class="chat-badge"></div>
+  <svg viewBox="0 0 24 24"><path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H5.17L4 17.17V4h16v12z"/></svg>
+</button>
+
+<div id="chatbot-window">
+  <div class="chat-header">
+    <div class="chat-avatar">VU</div>
+    <div class="chat-header-info">
+      <div class="name">VURA — VU Knowledge Assistant</div>
+      <div class="status"><span class="dot dot-pulse"></span> Connecting…</div>
+    </div>
+    <button class="chat-clear-btn" onclick="clearChat()" title="Clear chat">↺ Clear</button>
+    <button class="chat-close" onclick="toggleChat()">✕</button>
+  </div>
+
+  <div class="chat-messages" id="chat-messages">
+    <div class="msg bot">
+      <div class="msg-bubble"><p>👋 Hello! I'm <strong>VURA</strong>, the official AI assistant for Vidyashilp University — powered by VU's own knowledge base. Ask me anything about programs, admissions, faculty, campus life, scholarships, and more!</p></div>
+      <div class="msg-meta">Just now · VURA</div>
+    </div>
+  </div>
+
+  <div class="chat-quick-btns" id="quick-btns">
+    <button class="quick-btn" onclick="quickAsk('What programs does VU offer?')">Programs offered</button>
+    <button class="quick-btn" onclick="quickAsk('How do I apply to Vidyashilp University?')">How to apply</button>
+    <button class="quick-btn" onclick="quickAsk('Tell me about scholarships at VU')">Scholarships</button>
+    <button class="quick-btn" onclick="quickAsk('What is campus life like at VU?')">Campus life</button>
+    <button class="quick-btn" onclick="quickAsk('What are the placement statistics at VU?')">Placements</button>
+  </div>
+
+  <div class="chat-input-row">
+    <button class="chat-mic" id="chat-mic-btn" onclick="toggleMic()" title="Speak your question">
+      <svg viewBox="0 0 24 24"><path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3zm-1-9c0-.55.45-1 1-1s1 .45 1 1v6c0 .55-.45 1-1 1s-1-.45-1-1V5zm6 6c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/></svg>
+    </button>
+    <input type="text" class="chat-input" id="chat-input" placeholder="Ask about programs, admissions…" onkeydown="if(event.key==='Enter')sendMsg()">
+    <button class="chat-send" onclick="sendMsg()">
+      <svg viewBox="0 0 24 24"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+    </button>
+  </div>
+</div>
+
+<div style="position:fixed; bottom:20px; right:20px; width:300px; background:white; border:1px solid #ccc; border-radius:10px; padding:10px; z-index:10001;">
+  <div id="chatbox" style="height:250px; overflow-y:auto; font-size:14px; margin-bottom:10px;"></div>
+  <input id="userInput" type="text" placeholder="Ask something..."
+    style="width:70%; padding:5px;" />
+  <button onclick="sendMessage()" style="padding:5px;">Send</button>
+</div>
+
+<script>
+// New sendMessage functionality
+async function sendMessage() {
+    let input = document.getElementById("userInput");
+    let chatbox = document.getElementById("chatbox");
+    let userText = input.value;
+    if (!userText) return;
+    chatbox.innerHTML += "<div><b>You:</b> " + userText + "</div>";
+    input.value = "";
+    try {
+        let response = await fetch("http://127.0.0.1:5000/ask", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({ question: userText })
+        });
+        let data = await response.json();
+        chatbox.innerHTML += "<div><b>VURA:</b> " + data.answer + "</div>";
+    } catch (error) {
+        chatbox.innerHTML += "<div><b>Error:</b> Could not connect to server.</div>";
+    }
+    chatbox.scrollTop = chatbox.scrollHeight;
+}
+
+// Original VURA Script
+const VURA_API_BASE = 'http://localhost:5000';
+const FALLBACK_MSG  = "I'm having trouble connecting to VU's knowledge base right now. For immediate help please call <strong>080 6963 0500</strong> or visit <a href='https://vidyashilp.edu.in' target='_blank'>vidyashilp.edu.in</a>.";
+
+let chatOpen       = false;
+let backendOnline  = null;
+let currentUtterance = null;
+let recognition    = null;
+let isRecording    = false;
+let conversationHistory = [];
+
+async function checkBackendHealth() {
+  try {
+    const res = await fetch(`${VURA_API_BASE}/health`, { method: 'GET', signal: AbortSignal.timeout(3000) });
+    backendOnline = res.ok;
+  } catch {
+    backendOnline = false;
+  }
+  updateStatusBadge();
+}
+
+function updateStatusBadge() {
+  const statusEl = document.querySelector('.chat-header-info .status');
+  if (!statusEl) return;
+  if (backendOnline === true) {
+    statusEl.innerHTML = '<span class="dot dot-green"></span> VURA Online — Ask me anything about VU';
+  } else if (backendOnline === false) {
+    statusEl.innerHTML = '<span class="dot dot-red"></span> Knowledge base offline — using general info';
+  } else {
+    statusEl.innerHTML = '<span class="dot dot-pulse"></span> Connecting…';
+  }
+}
+
+function toggleChat() {
+  chatOpen = !chatOpen;
+  const win = document.getElementById('chatbot-window');
+  if (chatOpen) {
+    win.classList.add('open');
+    if (backendOnline === null) {
+      updateStatusBadge();
+      checkBackendHealth();
+    }
+    setTimeout(() => document.getElementById('chat-input')?.focus(), 350);
+  } else {
+    win.classList.remove('open');
+  }
+}
+
+function getTime() {
+  return new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function renderMarkdown(text) {
+  return text
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/^[-•]\s(.+)/gm, '<li>$1</li>')
+    .replace(/(<li>.*<\/li>)/s, '<ul>$1</ul>')
+    .replace(/\n{2,}/g, '</p><p>')
+    .replace(/\n/g, '<br>');
+}
+
+function addMsg(text, role) {
+  const container = document.getElementById('chat-messages');
+  const div = document.createElement('div');
+  div.className = 'msg ' + role;
+  const rendered = role === 'bot' ? renderMarkdown(text) : escapeHtml(text);
+  let extra = '';
+  if (role === 'bot') {
+    const id = 'tts-' + Date.now();
+    const safeText = text.replace(/`/g, "'").replace(/"/g, '&quot;');
+    extra = `<button class="chat-tts-btn" id="${id}" onclick="speakText(this, \`${safeText}\`)">
+      <svg viewBox="0 0 24 24"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+      Listen
+    </button>`;
+  }
+  div.innerHTML = `<div class="msg-bubble"><p>${rendered}</p></div><div class="msg-meta">${getTime()}${role==='bot'?' · VURA':''}</div>${extra}`;
+  container.appendChild(div);
+  container.scrollTop = container.scrollHeight;
+  return div;
+}
+
+function showTyping() {
+  const container = document.getElementById('chat-messages');
+  const div = document.createElement('div');
+  div.className = 'msg bot';
+  div.id = 'typing-indicator';
+  div.innerHTML = `<div class="msg-bubble"><div class="typing-bubble"><span></span><span></span><span></span></div></div><div class="msg-meta">VURA is thinking…</div>`;
+  container.appendChild(div);
+  container.scrollTop = container.scrollHeight;
+}
+
+function removeTyping() {
+  const t = document.getElementById('typing-indicator');
+  if (t) t.remove();
+}
+
+async function callVURA(userMessage) {
+  if (backendOnline !== false) {
+    try {
+      const res = await fetch(`${VURA_API_BASE}/ask`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query: userMessage }),
+        signal: AbortSignal.timeout(20000)
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data.answer) {
+          backendOnline = true;
+          updateStatusBadge();
+          return data.answer;
+        }
+      }
+    } catch (err) {
+      backendOnline = false;
+      updateStatusBadge();
+    }
+  }
+  return await callAnthropicFallback(userMessage);
+}
+
+async function callAnthropicFallback(userMessage) {
+  const systemPrompt = `You are VURA, the official AI assistant for Vidyashilp University (VU). Warm, concise, and helpful. Suggest calling 080 6963 0500 if unsure.`;
+  const messages = [...conversationHistory.slice(-6), { role: 'user', content: userMessage }];
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 500,
+        system: systemPrompt,
+        messages
+      })
+    });
+    const data = await response.json();
+    return data.content?.[0]?.text || FALLBACK_MSG;
+  } catch(e) { return FALLBACK_MSG; }
+}
+
+async function sendMsg() {
+  const input = document.getElementById('chat-input');
+  const text = input.value.trim();
+  if (!text) return;
+  input.value = '';
+  document.getElementById('quick-btns').style.display = 'none';
+  addMsg(text, 'user');
+  conversationHistory.push({ role: 'user', content: text });
+  showTyping();
+  try {
+    const reply = await callVURA(text);
+    removeTyping();
+    addMsg(reply, 'bot');
+    conversationHistory.push({ role: 'assistant', content: reply });
+  } catch(e) {
+    removeTyping();
+    addMsg(FALLBACK_MSG, 'bot');
+  }
+}
+
+async function quickAsk(text) {
+  document.getElementById('quick-btns').style.display = 'none';
+  addMsg(text, 'user');
+  conversationHistory.push({ role: 'user', content: text });
+  showTyping();
+  try {
+    const reply = await callVURA(text);
+    removeTyping();
+    addMsg(reply, 'bot');
+    conversationHistory.push({ role: 'assistant', content: reply });
+  } catch(e) {
+    removeTyping();
+    addMsg(FALLBACK_MSG, 'bot');
+  }
+}
+
+function speakText(btn, text) {
+  if (!window.speechSynthesis) return;
+  const plainText = text.replace(/<[^>]+>/g, '');
+  if (currentUtterance && window.speechSynthesis.speaking) {
+    window.speechSynthesis.cancel();
+    document.querySelectorAll('.chat-tts-btn').forEach(b => {
+      b.classList.remove('speaking');
+      b.innerHTML = `Listen`;
+    });
+    if (currentUtterance._btn === btn) { currentUtterance = null; return; }
+  }
+  const utter = new SpeechSynthesisUtterance(plainText);
+  utter._btn = btn;
+  btn.classList.add('speaking');
+  btn.innerHTML = `Stop`;
+  utter.onend = () => {
+    btn.classList.remove('speaking');
+    btn.innerHTML = `Listen`;
+    currentUtterance = null;
+  };
+  currentUtterance = utter;
+  window.speechSynthesis.speak(utter);
+}
+
+function toggleMic() {
+  const btn = document.getElementById('chat-mic-btn');
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SpeechRecognition) return;
+  if (isRecording) { recognition && recognition.stop(); return; }
+  recognition = new SpeechRecognition();
+  recognition.lang = 'en-IN';
+  isRecording = true;
+  btn.classList.add('recording');
+  recognition.onresult = (e) => { document.getElementById('chat-input').value = e.results[0][0].transcript; };
+  recognition.onend = () => {
+    isRecording = false;
+    btn.classList.remove('recording');
+    if (document.getElementById('chat-input').value.trim()) sendMsg();
+  };
+  recognition.start();
+}
+
+function clearChat() {
+  document.getElementById('chat-messages').innerHTML = `<div class="msg bot">
+    <div class="msg-bubble"><p>👋 Hello! I'm <strong>VURA</strong>, the official AI assistant for Vidyashilp University. Ask me anything!</p></div>
+    <div class="msg-meta">${getTime()} · VURA</div>
+  </div>`;
+  conversationHistory = [];
+  document.getElementById('quick-btns').style.display = 'flex';
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const inp = document.getElementById('chat-input');
+  if (inp) {
+    inp.addEventListener('input', () => {
+      inp.style.height = '38px';
+      inp.style.height = Math.min(inp.scrollHeight, 100) + 'px';
+    });
+  }
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && chatOpen) toggleChat(); });
+});
+</script>
+
+<style>
+.dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 5px; }
+.dot-green  { background: #22c55e; }
+.dot-red    { background: #ef4444; }
+.dot-pulse  { background: #f59e0b; animation: pulse-dot 1.2s infinite; }
+@keyframes pulse-dot { 0%,100% { opacity: 1; } 50% { opacity: 0.4; } }
+.msg-meta { font-size: 10.5px; color: var(--vu-gray); margin-top: 4px; padding-left: 2px; }
+.msg-bubble ul { padding-left: 1.2rem; margin: 4px 0; }
+.msg-bubble li { margin-bottom: 3px; font-size: 13.5px; }
+.msg-bubble p  { margin: 0; }
+.msg-bubble p + p { margin-top: 6px; }
+.msg-bubble a  { color: var(--vu-gold); }
+.chat-clear-btn { background: none; border: none; color: rgba(255,255,255,0.55); font-size: 11px; cursor: pointer; padding: 4px 8px; border-radius: 4px; margin-right: 4px; }
+.chat-clear-btn:hover { background: rgba(255,255,255,0.1); color: #fff; }
+</style>
+</body>
+</html>

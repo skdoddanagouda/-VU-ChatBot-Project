@@ -1,0 +1,16 @@
+{
+  "2025UG000001": {
+    "role": "student",
+    "name": "Rithunya",
+    "semester": 3
+  },
+  "2025UG000002": {
+    "role": "parent",
+    "child": "2025UG000001"
+  },
+  "T001": {
+    "role": "teacher",
+    "name": "Dr. Sharma",
+    "subjects": ["DBMS"]
+  }
+}
