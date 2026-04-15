@@ -1,0 +1,84 @@
+FOHE Summit
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+<div class="menu-links" style="font-weight: 900;
+font-family: 'Poppins', sans-serif !important;">
+Home
+AGENDA
+SHILP SHOWCASE
+VENUE
+GALLERY
+AGENDA – Your Day at a Glance
+A packed schedule of inspiring sessions, panel discussions, and VU student exhibits.
+All Sessions
+Registration
+Welcome Address
+Keynotes Speech
+Panel Discussion
+Shilpite Experience
+Transformative Finale
+Chow and Chill
+9 AM to 10:00 AM
+Registration
+Power Up with Morning Refreshments
+Register yourself and get the event started
+with a hot beverage and tasty bites.
+10:00 AM to 10:15 AM
+Welcome Address
+Moment of Calm
+Pause for a moment to embrace the calm as Shilpites lead us in prayer
+to set the tone for an inspiring day ahead.
+10:15 AM to 10:30 AM
+Welcome Address
+Welcome Note
+Opening address to introduce the event
+and set the context.
+10:30 AM to 10:50 AM
+Keynotes Speech
+The Big Keynote 1
+Get ready to dive into "How India's rapid growth is reshaping the
+21st Century"
+with an insider’s perspective on our booming economy.
+10:50 AM to 11:10 AM
+Keynotes Speech
+The Big Keynote 2
+Discover “The Importance of Interdisciplinary Learning” with a
+modern polymath, and understand how combining diverse fields leads to innovation,
+creativity, and real-world solutions.
+11:10 AM to 11:40 PM
+Panel Discussion
+Panel Discussion
+Exploring academia and industry connect in the Techno Gen Z Era"
+Our expert panel dives into the pros and cons, the what-ifs, and the game-changers
+shaping the dynamic relationship between education and industry in a fast-evolving, tech-driven world.
+11:40 AM to 12:00 PM
+Vidyashilp Alumni Talk
+Vidyashilp Alumni Talk
+Vidyashilp Alumni share how the interdisciplinary learning
+and future-focused education redefined
+their goals and aspirations.
+12:00 PM to 12:15 PM
+Closing Address
+Closing Address
+Parting insights and words of wisdom from our Vice Chancellor
+to leave you inspired and focused on your journey ahead.
+12:15 PM to 12:30 PM
+Shilpite Experience
+Invitation to Experience Shilpites Excellence
+A showcase of VU’s learning and excellence, followed by an invite
+to explore our student exhibits.
+12:30 PM to 1:15 PM
+Transformative Finale
+The Transformative Finale
+Step into a bold display of student innovation, then deep-dive into breakout sessions
+with VU’s global academic minds across Law, Design, Data Science, Economics, Psychology, and Digital Business.
+1:15 PM onwards
+Chow and Chill
+Chow and Chill
+It’s time for lunch and networking
+Copyright © 2025 VIDYASHILP UNIVERSITY

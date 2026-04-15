@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Audio (temporary generated files)
+backend/audio/*.mp3
+response_*.mp3
+
+# Databases
+backend/chroma_db/
+
+# OS files
+.DS_Store
+Thumbs.db

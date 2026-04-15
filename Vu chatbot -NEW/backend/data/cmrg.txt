@@ -1,0 +1,209 @@
+Vidyashilp University - CMRG
+About  Event
+What We Do
+Study
+Team
+Research Themes
+Media
+Contact Us
+About  Event
+What We Do
+Study
+Team
+Research Themes
+Media
+Contact Us
+About
+What We Do
+Study
+Team
+Research Themes
+Media
+Contact Us
+<h1 style="font-weight: 900 !important;
+color: #ac162c !important;
+text-align: center !important;
+margin-bottom: 10px !important;
+font-family: 'Poppins', sans-serif !important;">ABOUT
+Who We Are
+The Centre for Market Regulations and Governance (CMRG) at Vidyashilp University is a
+pioneering initiative for interdisciplinary research and education in law, economics, regulation,
+and governance. Positioned at the intersection of policy and practice, CMRG advances thought
+leadership, research-driven insights, and meaningful stakeholder engagement to shape the future
+of regulatory governance.
+Our mission is to establish regulation as a multidisciplinary field, equipping scholars,
+policymakers, businesses, and regulatory bodies with the knowledge and tools necessary to
+navigate complex market regulations. CMRG fosters collaboration between academia, industry,
+and government to shape efficient, transparent, and effective regulatory frameworks. Through
+collaborations between academia, industry, and government, CMRG is committed to advancing
+best practices, strengthening institutional capacity, and enabling informed decision-making in
+regulatory governance.
+What We Do
+CMRG enhances regulatory literacy, improves governance mechanisms, and contributes to policy
+reforms through:
+Regulatory Research & Thought Leadership – Conducting evidence-based studies on
+evolving regulatory challenges.
+Capacity Building & Training – Offering executive education, certification courses, and
+workshops for regulators and regulated entities.
+Policy Advocacy & Engagement – Collaborating with policymakers, industry leaders,
+and international organizations to improve regulatory frameworks.
+Knowledge Dissemination – Publishing policy briefs, research papers, and case studies to
+contribute to academic and professional discourse.
+<section class="start-date bg-blue01 container-fluid mobileonly fade-in-section desk fade-scroll fade-in visible" id="startdate" style="padding-bottom: 5px !important;background-repeat:no-repeat;
+background-color: #f5f5f5 !important;">
+Certificate Courses
+CMRG offers specialized certificate programs tailored for regulators,
+industry professionals, and scholars seeking a deeper understanding of
+regulatory enforcement and compliance.
+Past Events
+Enforcement Process for Regulators, Regulated Entities, and Regulatory Practitioners
+This domain-agnostic course provided a structured
+approach to regulatory enforcement, covering procedural aspects, compliance mechanisms, and
+best practices for both regulators and regulated entities.
+Date:
+March 10-11, 2025
+Venue:
+Vidyashilp University, Bangalore
+Mode:
+In-person
+<h2 class="section-title" style="font-family: 'Poppins', sans-serif !important;
+float:left;margin-left:30px;color: #ac162c !important;">Advisory Board
+Prof. M.S. Sahoo
+View Profile
+Prof. T.S. Somashekar
+View Profile
+Our Team
+Prof. P.G. Babu
+View Profile
+Prof. Roopa Madhav
+View Profile
+Mr. Zuno George Verghese
+View Profile
+Ms. Avi Singh Majithia
+View Profile
+<h2 class="rt-theme-block rt-section-heading" style="
+font-family: 'Poppins', sans-serif !important;color:
+white;padding: 10px;/* background-color: lightgray;
+*/Background: transparent linear-gradient(90deg, #AA182C 0%, #212059 100%) 0% 0% no-repeat padding-box !important;">
+Research Themes
+Regulatory Design
+Regulatory frameworks play a pivotal role in shaping market dynamics by influencing
+competition, fostering innovation, and safeguarding consumer welfare. Effective regulatory
+design is grounded in principles of transparency, accountability, and stakeholder participation,
+ensuring that policies are both fair and efficient. Tools such as regulatory impact assessments
+(RIAs) are crucial in evidence-based policymaking and help evaluate the effectiveness and
+consequences of regulatory interventions. Our research also explores comparative studies of
+global regulatory models, offering valuable insights into best practices and their relevance to
+India's diverse regulatory landscape.
+Law and Economics
+Law and economics play a crucial role in shaping regulatory policies, influencing market
+behavior, economic growth, and governance structures. The interplay between legal frameworks
+and economic principles determines the effectiveness of regulations in fostering competition,
+ensuring market efficiency, and protecting consumer welfare. A well-designed regulatory system
+considers the economic rationale behind competition law, market regulations, and price controls,
+ensuring that interventions support innovation and entrepreneurship rather than stifle them.
+Behavioral economics further highlights how regulations impact consumer and corporate
+decision-making, shedding light on the unintended consequences of policy measures.
+Additionally, cost-benefit analysis serves as a critical tool for evaluating regulatory policies,
+ensuring that their implementation leads to optimal economic and social outcomes. By integrating
+insights from both law and economics, regulators can design policies that balance efficiency,
+equity, and innovation in dynamic market environments.
+Utilities & Infrastructure
+Utilities and infrastructure—such as energy, water, telecommunications, and transportation—are
+essential for economic development and societal well-being. The regulation of utilities and
+infrastructure is inherently multidisciplinary, requiring regulators to consider techno-economic,
+social, and environmental factors while selecting regulatory instruments that, when effectively
+implemented, foster market evolution and enhance competition among regulated entities.
+Effective regulation in these sectors thus ensures fair pricing, efficiency, sustainability, and
+accessibility. Our research intends to explore tariff regulations, public-private partnerships
+(PPPs), smart city governance, and digital infrastructure policies to enhance service quality and
+long-term sustainability. Furthermore, CMRG aspires to be a key stakeholder that brings together
+like-minded experts (individual and institutional) to provide inputs to regulatory practitioners on
+tackling regulatory challenges given the complexity and sector-specific characteristics of utilities
+and infrastructure regulation.
+Financial Regulation
+Financial markets are the backbone of the economy, requiring robust regulatory oversight to
+ensure stability, transparency, and consumer protection. Beyond just banking regulations, the
+governance of capital markets, derivatives trading, and financial instruments plays a crucial role
+in maintaining market integrity. Institutions like the Securities and Exchange Board of India
+(SEBI) regulate stock exchanges, mutual funds, and corporate governance to promote fair and
+efficient markets. Additionally, fintech policies, digital payments governance, and other emerging
+financial markets such as cryptocurrencies are reshaping the financial landscape. Our objective is
+to contribute to the development of a more robust regulatory environment that promotes financial
+inclusion, market stability, and sustainable economic growth by analysing risk management
+tactics, compliance systems, and development of financial instruments.
+Regulating Innovation & Technology
+Regulations must strike a balance between innovation and security and ethical considerations as
+sectors are transformed by automation, artificial intelligence, and platform economies. Our
+research intends to examine data privacy laws, AI governance, digital marketplaces, and
+cybersecurity regulations to ensure technology serves society responsibly. We focus on creating
+adaptive regulatory frameworks that encourage innovation while mitigating risks.
+In this regard, corporate governance is essential for monitoring technology developments and
+guaranteeing accountability, openness, and moral decision-making in businesses. With the
+increasing reliance on digital systems and data-driven operations, governance frameworks must
+evolve to address risks related to algorithmic bias within organisations, cybersecurity threats, and
+digital fraud. Our research intends to explore best practices in corporate governance for tech-
+driven businesses, emphasizing the importance of regulatory compliance, responsible innovation,
+and sustainable business practices in the digital era.
+Social & Environmental Regulation
+Governments and businesses are increasingly held accountable for sustainability, corporate
+responsibility, and social equity. Our research will look into ESG (Environmental, Social, and
+Governance) compliance, labour rights regulations, and circular economy initiatives. We analyse
+how laws and policies can drive businesses toward ethical practices, sustainability, and long-term
+resilience in a changing global landscape.
+PUBLICATIONS AND MEDIA
+Are regulators becoming managers ?
+Read More
+Codifying citizens' role in lawmaking for more accountable legislation
+Read More
+Responsible regulation: The key to reform in an era of deregulation
+Read More
+What matters in regulatory governance
+Read More
+Party Autonomy: The Soul of Arbitration
+Read More
+Fostering a business-friendly economy
+Read More
+<section class="start-date bg-blue01 container-fluid mobileonly fade-in-section desk fade-scroll fade-in visible" style="
+background-image: url('https://vidyashilp.edu.in/wp-content/uploads/2023/05/Blog-Bottom-Image.jpg');
+border-bottom: 5px solid rgb(175, 35, 35) !important;">
+<div class="connect" style="
+margin-top: 27px;
+"><a href="#" class="connect-btn" data-toggle="modal" data-target="#connectModal" style="
+color: white;
+height: fit-content;
+width: fit-content;
+font-size: 1.6rem;
+margin-bottom: 20px;
+font-family: CeraProBlack;
+white-space: nowrap;
+text-decoration: none;
+font-family: 'Nunito', sans-serif;
+font-weight: 700;">CONTACT US
+<p style="margin-top: 5px !important;
+font-family: 'Nunito', sans-serif;
+font-weight: 700;color:white !important;">For inquiries, collaborations, or to stay updated on CMRG’s research and events, reach out to us
+at
+E-Mail:
+cmrg@vidyashilp.edu.in
+#125, Bettenahalli, Kundana Hobli,  Chapparkallu Road, Bengaluru - 562110
+Schools
+School of Computational and Data Sciences
+School of Liberal Arts and Design Studies
+School of Business Studies
+School of Legal Studies and Governance
+Quick Links
+About
+Programs
+Admission
+Enquiry
+Privacy & Policy
+Ombudsperson
+Other Links
+Media
+Mandatory Documents
+Student Grievance
+Sitemap
+Contact Us
+© 2025 Vidyashilp.
+Vidyashilp University is established under Karnataka Act No.20 of 2021

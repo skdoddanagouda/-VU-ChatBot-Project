@@ -1,0 +1,58 @@
+India Rising
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW96NSW5"
+height="0" width="0" style="display:none;visibility:hidden">
+<ul class="navbar-nav ms-auto" style="font-weight: 500;
+font-family: 'Poppins', sans-serif !important;">
+HOME
+AGENDA
+WORKSHOPS
+VENUE
+GALLERY
+PREVIOUS EDITION
+India Rising 2024
+Home
+Agenda
+Workshops
+Venue
+Gallery
+Previous Edition
+India Rising 2024
+<section class="agenda-section" style="padding: 30px 20px;text-align: center;
+background-image: url(https://vidyashilpimages.com/zoho_back.png);">
+Workshops & Contests: Learning by Doing in a Problem-Solving Sprint
+An exciting opportunity for students to go beyond classrooms—learn, apply, and compete in a fast-paced, interdisciplinary problem-solving sprint
+Three immersive tracks combine expert-led workshops with high-energy contests, challenging students to turn ideas into real-world solutions through creativity, critical thinking, and collaboration.
+<section class="event-partners-section" style="
+background: linear-gradient(90deg, #5f6df5 0%, #e43e77 100%);
+padding: 30px 20px;
+color: white;
+font-family: 'Segoe UI', sans-serif;
+">
+💡  TechVenture Challenge
+Workshop – Your First Tech Startup
+Step into the shoes of a tech founder! Learn how to turn big ideas into real-world impact through problem-solving, innovation, and a bold entrepreneurial mindset. Get ready to imbibe the intricacies of building your own startup from scratch!
+Contest – VU Shark Tank
+Pitch. Persuade. Prevail. Take on Bengaluru’s real-world challenges with cutting-edge drone tech. Craft an impactful business plan, showcase your entrepreneurial edge,
+and face the ultimate test of your vision in this high-stakes, tech-driven contest!
+🎨 Innovators’ Junction
+Workshop – The Art of Decisions
+Gear up for an electrifying experience where economics, psychology,
+and design collide to spark innovation! Discover how decision-making,
+branding, and user-centred design can be combined to create impactful
+solutions for real-world challenges.
+Contest – The Organic Chef
+Bring your ideas to life! Use your learnings from the workshop to
+design a seamless system that connects organic produce to consumers.
+Then, design an intuitive and visually engaging app interface that makes
+accessing organic food effortless in this thrilling, hands-on contest.
+🕵️ Crime Lab Challenge
+Workshop – The Science of Investigation
+Dive into the thrilling world of crime scene investigation with an
+immersive workshop that introduces the essentials of law, crime, and
+the investigation process. Participants will learn to approach a
+simulated crime scene, gather key information, analyse evidence,
+reconstruct events, and apply their critical thinking skills and
+legal reasoning to solve the crime.
+Contest – Crime Scene Investigator
+Put your investigative skills to the test. Participants will solve a staged crime scene mystery by putting together evidence, building a case theory, and presenting their findings on Contest Submission Sheets, which will be evaluated.
+Copyright © 2025 VIDYASHILP UNIVERSITY

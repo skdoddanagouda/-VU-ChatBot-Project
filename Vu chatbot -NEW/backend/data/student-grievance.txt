@@ -1,0 +1,25 @@
+Student Grievance
+This grievance page is a safe space for you to voice your concerns,
+knowing your confidentiality is strictly prioritized.
+First Name*
+Last Name*
+Email*
+Enter OTP*
+Phone Number*
+UEN ID (if applicable) / Admission ref number
+Program (if applicable)
+---
+B.Des
+B.Tech (Hons) - Data Science
+BA (Hons) with Economics
+BA (Hons) with Psychology
+BMS (Hons)
+BMS (Hons) with Research
+BA - LLB (Hons)
+BMS - LLB (Hons)
+Semester of Study (if applicable)
+Supporting Documents*
+Details of Grievance*
+Resolution Requested*
+* Agreement to Terms and Conditions in (University Grants Commission (Redressal of Grievances) Regulations, 2023)
+Submit

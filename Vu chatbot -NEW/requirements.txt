@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+chromadb
+google-genai
+python-dotenv
+pandas
+openpyxl
+deep-translator
+gTTS
+SpeechRecognition
+pydantic
